@@ -1,0 +1,1495 @@
+id,title,authors,categories,abstract,created,updated
+http://arxiv.org/abs/1805.08355v1,Opening the black box of deep learning,"Dian Lei,Xiaoxiao Chen,Jianfei Zhao",,"  The great success of deep learning shows that its technology contains
+profound truth, and understanding its internal mechanism not only has important
+implications for the development of its technology and effective application in
+various fields, but also provides meaningful insights into the understanding of
+human brain mechanism. At present, most of the theoretical research on deep
+learning is based on mathematics. This dissertation proposes that the neural
+network of deep learning is a physical system, examines deep learning from
+three different perspectives: microscopic, macroscopic, and physical world
+views, answers multiple theoretical puzzles in deep learning by using physics
+principles. For example, from the perspective of quantum mechanics and
+statistical physics, this dissertation presents the calculation methods for
+convolution calculation, pooling, normalization, and Restricted Boltzmann
+Machine, as well as the selection of cost functions, explains why deep learning
+must be deep, what characteristics are learned in deep learning, why
+Convolutional Neural Networks do not have to be trained layer by layer, and the
+limitations of deep learning, etc., and proposes the theoretical direction and
+basis for the further development of deep learning now and in the future. The
+brilliance of physics flashes in deep learning, we try to establish the deep
+learning technology based on the scientific theory of physics.
+",2018-05-22T02:12:33Z,2018-05-22T02:12:33Z
+http://arxiv.org/abs/1806.01756v1,Concept-Oriented Deep Learning,Daniel T Chang,,"  Concepts are the foundation of human deep learning, understanding, and
+knowledge integration and transfer. We propose concept-oriented deep learning
+(CODL) which extends (machine) deep learning with concept representations and
+conceptual understanding capability. CODL addresses some of the major
+limitations of deep learning: interpretability, transferability, contextual
+adaptation, and requirement for lots of labeled training data. We discuss the
+major aspects of CODL including concept graph, concept representations, concept
+exemplars, and concept representation learning systems supporting incremental
+and continual learning.
+",2018-06-05T15:50:30Z,2018-06-05T15:50:30Z
+http://arxiv.org/abs/1908.02130v1,"Deep learning research landscape & roadmap in a nutshell: past, present
+  and future -- Towards deep cortical learning",Aras R. Dargazany,,"  The past, present and future of deep learning is presented in this work.
+Given this landscape & roadmap, we predict that deep cortical learning will be
+the convergence of deep learning & cortical learning which builds an artificial
+cortical column ultimately.
+",2019-07-30T16:57:38Z,2019-07-30T16:57:38Z
+http://arxiv.org/abs/1812.05448v4,A First Look at Deep Learning Apps on Smartphones,"Mengwei Xu,Jiawei Liu,Yuanqiang Liu,Felix Xiaozhu Lin,Yunxin Liu,Xuanzhe Liu",,"  We are in the dawn of deep learning explosion for smartphones. To bridge the
+gap between research and practice, we present the first empirical study on
+16,500 the most popular Android apps, demystifying how smartphone apps exploit
+deep learning in the wild. To this end, we build a new static tool that
+dissects apps and analyzes their deep learning functions. Our study answers
+threefold questions: what are the early adopter apps of deep learning, what do
+they use deep learning for, and how do their deep learning models look like.
+Our study has strong implications for app developers, smartphone vendors, and
+deep learning R\&D. On one hand, our findings paint a promising picture of deep
+learning for smartphones, showing the prosperity of mobile deep learning
+frameworks as well as the prosperity of apps building their cores atop deep
+learning. On the other hand, our findings urge optimizations on deep learning
+models deployed on smartphones, the protection of these models, and validation
+of research ideas on these models.
+",2018-11-08T07:59:23Z,2021-01-13T01:29:33Z
+http://arxiv.org/abs/1705.03921v1,Why & When Deep Learning Works: Looking Inside Deep Learnings,Ronny Ronen,,"  The Intel Collaborative Research Institute for Computational Intelligence
+(ICRI-CI) has been heavily supporting Machine Learning and Deep Learning
+research from its foundation in 2012. We have asked six leading ICRI-CI Deep
+Learning researchers to address the challenge of ""Why & When Deep Learning
+works"", with the goal of looking inside Deep Learning, providing insights on
+how deep networks function, and uncovering key observations on their
+expressiveness, limitations, and potential. The output of this challenge
+resulted in five papers that address different facets of deep learning. These
+different facets include a high-level understating of why and when deep
+networks work (and do not work), the impact of geometry on the expressiveness
+of deep networks, and making deep networks interpretable.
+",2017-05-10T18:52:26Z,2017-05-10T18:52:26Z
+http://arxiv.org/abs/1901.02354v2,"Geometrization of deep networks for the interpretability of deep
+  learning systems","Xiao Dong,Ling Zhou",,"  How to understand deep learning systems remains an open problem. In this
+paper we propose that the answer may lie in the geometrization of deep
+networks. Geometrization is a bridge to connect physics, geometry, deep network
+and quantum computation and this may result in a new scheme to reveal the rule
+of the physical world. By comparing the geometry of image matching and deep
+networks, we show that geometrization of deep networks can be used to
+understand existing deep learning systems and it may also help to solve the
+interpretability problem of deep learning systems.
+",2019-01-06T14:32:45Z,2019-01-13T17:20:05Z
+http://arxiv.org/abs/2010.05125v2,Learning Task-aware Robust Deep Learning Systems,"Keji Han,Yun Li,Xianzhong Long,Yao Ge",,"  Many works demonstrate that deep learning system is vulnerable to adversarial
+attack. A deep learning system consists of two parts: the deep learning task
+and the deep model. Nowadays, most existing works investigate the impact of the
+deep model on robustness of deep learning systems, ignoring the impact of the
+learning task. In this paper, we adopt the binary and interval label encoding
+strategy to redefine the classification task and design corresponding loss to
+improve robustness of the deep learning system. Our method can be viewed as
+improving the robustness of deep learning systems from both the learning task
+and deep model. Experimental results demonstrate that our learning task-aware
+method is much more robust than traditional classification while retaining the
+accuracy.
+",2020-10-11T01:06:49Z,2021-12-02T02:39:50Z
+http://arxiv.org/abs/1805.04825v1,Deep Learning in Software Engineering,"Xiaochen Li,He Jiang,Zhilei Ren,Ge Li,Jingxuan Zhang",,"  Recent years, deep learning is increasingly prevalent in the field of
+Software Engineering (SE). However, many open issues still remain to be
+investigated. How do researchers integrate deep learning into SE problems?
+Which SE phases are facilitated by deep learning? Do practitioners benefit from
+deep learning? The answers help practitioners and researchers develop practical
+deep learning models for SE tasks. To answer these questions, we conduct a
+bibliography analysis on 98 research papers in SE that use deep learning
+techniques. We find that 41 SE tasks in all SE phases have been facilitated by
+deep learning integrated solutions. In which, 84.7% papers only use standard
+deep learning models and their variants to solve SE problems. The
+practicability becomes a concern in utilizing deep learning techniques. How to
+improve the effectiveness, efficiency, understandability, and testability of
+deep learning based solutions may attract more SE researchers in the future.
+",2018-05-13T06:01:39Z,2018-05-13T06:01:39Z
+http://arxiv.org/abs/1901.09388v2,Moving Deep Learning into Web Browser: How Far Can We Go?,"Yun Ma,Dongwei Xiang,Shuyu Zheng,Deyu Tian,Xuanzhe Liu",,"  Recently, several JavaScript-based deep learning frameworks have emerged,
+making it possible to perform deep learning tasks directly in browsers.
+However, little is known on what and how well we can do with these frameworks
+for deep learning in browsers. To bridge the knowledge gap, in this paper, we
+conduct the first empirical study of deep learning in browsers. We survey 7
+most popular JavaScript-based deep learning frameworks, investigating to what
+extent deep learning tasks have been supported in browsers so far. Then we
+measure the performance of different frameworks when running different deep
+learning tasks. Finally, we dig out the performance gap between deep learning
+in browsers and on native platforms by comparing the performance of
+TensorFlow.js and TensorFlow in Python. Our findings could help application
+developers, deep-learning framework vendors and browser vendors to improve the
+efficiency of deep learning in browsers.
+",2019-01-27T14:54:51Z,2019-03-24T06:44:08Z
+http://arxiv.org/abs/1602.00203v1,Greedy Deep Dictionary Learning,"Snigdha Tariyal,Angshul Majumdar,Richa Singh,Mayank Vatsa",,"  In this work we propose a new deep learning tool called deep dictionary
+learning. Multi-level dictionaries are learnt in a greedy fashion, one layer at
+a time. This requires solving a simple (shallow) dictionary learning problem,
+the solution to this is well known. We apply the proposed technique on some
+benchmark deep learning datasets. We compare our results with other deep
+learning tools like stacked autoencoder and deep belief network; and state of
+the art supervised dictionary learning tools like discriminative KSVD and label
+consistent KSVD. Our method yields better results than all.
+",2016-01-31T06:12:58Z,2016-01-31T06:12:58Z
+http://arxiv.org/abs/2108.01468v1,"Quantum Neural Networks: Concepts, Applications, and Challenges","Yunseok Kwak,Won Joon Yun,Soyi Jung,Joongheon Kim",,"  Quantum deep learning is a research field for the use of quantum computing
+techniques for training deep neural networks. The research topics and
+directions of deep learning and quantum computing have been separated for long
+time, however by discovering that quantum circuits can act like artificial
+neural networks, quantum deep learning research is widely adopted. This paper
+explains the backgrounds and basic principles of quantum deep learning and also
+introduces major achievements. After that, this paper discusses the challenges
+of quantum deep learning research in multiple perspectives. Lastly, this paper
+presents various future research directions and application fields of quantum
+deep learning.
+",2021-08-02T04:32:15Z,2021-08-02T04:32:15Z
+http://arxiv.org/abs/2306.13586v1,"NetBooster: Empowering Tiny Deep Learning By Standing on the Shoulders
+  of Deep Giants","Zhongzhi Yu,Yonggan Fu,Jiayi Yuan,Haoran You,Yingyan Lin",,"  Tiny deep learning has attracted increasing attention driven by the
+substantial demand for deploying deep learning on numerous intelligent
+Internet-of-Things devices. However, it is still challenging to unleash tiny
+deep learning's full potential on both large-scale datasets and downstream
+tasks due to the under-fitting issues caused by the limited model capacity of
+tiny neural networks (TNNs). To this end, we propose a framework called
+NetBooster to empower tiny deep learning by augmenting the architectures of
+TNNs via an expansion-then-contraction strategy. Extensive experiments show
+that NetBooster consistently outperforms state-of-the-art tiny deep learning
+solutions.
+",2023-06-23T16:14:25Z,2023-06-23T16:14:25Z
+http://arxiv.org/abs/2108.11510v1,Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey,"Ngan Le,Vidhiwar Singh Rathour,Kashu Yamazaki,Khoa Luu,Marios Savvides",,"  Deep reinforcement learning augments the reinforcement learning framework and
+utilizes the powerful representation of deep neural networks. Recent works have
+demonstrated the remarkable successes of deep reinforcement learning in various
+domains including finance, medicine, healthcare, video games, robotics, and
+computer vision. In this work, we provide a detailed review of recent and
+state-of-the-art research advances of deep reinforcement learning in computer
+vision. We start with comprehending the theories of deep learning,
+reinforcement learning, and deep reinforcement learning. We then propose a
+categorization of deep reinforcement learning methodologies and discuss their
+advantages and limitations. In particular, we divide deep reinforcement
+learning into seven main categories according to their applications in computer
+vision, i.e. (i)landmark localization (ii) object detection; (iii) object
+tracking; (iv) registration on both 2D image and 3D image volumetric data (v)
+image segmentation; (vi) videos analysis; and (vii) other applications. Each of
+these categories is further analyzed with reinforcement learning techniques,
+network design, and performance. Moreover, we provide a comprehensive analysis
+of the existing publicly available datasets and examine source code
+availability. Finally, we present some open issues and discuss future research
+directions on deep reinforcement learning in computer vision
+",2021-08-25T23:01:48Z,2021-08-25T23:01:48Z
+http://arxiv.org/abs/2106.00120v3,"Probabilistic Deep Learning with Probabilistic Neural Networks and Deep
+  Probabilistic Models",Daniel T. Chang,,"  Probabilistic deep learning is deep learning that accounts for uncertainty,
+both model uncertainty and data uncertainty. It is based on the use of
+probabilistic models and deep neural networks. We distinguish two approaches to
+probabilistic deep learning: probabilistic neural networks and deep
+probabilistic models. The former employs deep neural networks that utilize
+probabilistic layers which can represent and process uncertainty; the latter
+uses probabilistic models that incorporate deep neural network components which
+capture complex non-linear stochastic relationships between the random
+variables. We discuss some major examples of each approach including Bayesian
+neural networks and mixture density networks (for probabilistic neural
+networks), and variational autoencoders, deep Gaussian processes and deep mixed
+effects models (for deep probabilistic models). TensorFlow Probability is a
+library for probabilistic modeling and inference which can be used for both
+approaches of probabilistic deep learning. We include its code examples for
+illustration.
+",2021-05-31T22:13:21Z,2021-06-09T17:43:40Z
+http://arxiv.org/abs/2303.01980v1,"Towards energy-efficient Deep Learning: An overview of energy-efficient
+  approaches along the Deep Learning Lifecycle","Vanessa Mehlin,Sigurd Schacht,Carsten Lanquillon",,"  Deep Learning has enabled many advances in machine learning applications in
+the last few years. However, since current Deep Learning algorithms require
+much energy for computations, there are growing concerns about the associated
+environmental costs. Energy-efficient Deep Learning has received much attention
+from researchers and has already made much progress in the last couple of
+years. This paper aims to gather information about these advances from the
+literature and show how and at which points along the lifecycle of Deep
+Learning (IT-Infrastructure, Data, Modeling, Training, Deployment, Evaluation)
+it is possible to reduce energy consumption.
+",2023-02-05T11:36:51Z,2023-02-05T11:36:51Z
+http://arxiv.org/abs/1711.03577v1,What Really is Deep Learning Doing?,Chuyu Xiong,,"  Deep learning has achieved a great success in many areas, from computer
+vision to natural language processing, to game playing, and much more. Yet,
+what deep learning is really doing is still an open question. There are a lot
+of works in this direction. For example, [5] tried to explain deep learning by
+group renormalization, and [6] tried to explain deep learning from the view of
+functional approximation. In order to address this very crucial question, here
+we see deep learning from perspective of mechanical learning and learning
+machine (see [1], [2]). From this particular angle, we can see deep learning
+much better and answer with confidence: What deep learning is really doing? why
+it works well, how it works, and how much data is necessary for learning. We
+also will discuss advantages and disadvantages of deep learning at the end of
+this work.
+",2017-11-06T23:00:13Z,2017-11-06T23:00:13Z
+http://arxiv.org/abs/2201.05867v1,Transferability in Deep Learning: A Survey,"Junguang Jiang,Yang Shu,Jianmin Wang,Mingsheng Long",,"  The success of deep learning algorithms generally depends on large-scale
+data, while humans appear to have inherent ability of knowledge transfer, by
+recognizing and applying relevant knowledge from previous learning experiences
+when encountering and solving unseen tasks. Such an ability to acquire and
+reuse knowledge is known as transferability in deep learning. It has formed the
+long-term quest towards making deep learning as data-efficient as human
+learning, and has been motivating fruitful design of more powerful deep
+learning algorithms. We present this survey to connect different isolated areas
+in deep learning with their relation to transferability, and to provide a
+unified and complete view to investigating transferability through the whole
+lifecycle of deep learning. The survey elaborates the fundamental goals and
+challenges in parallel with the core principles and methods, covering recent
+cornerstones in deep architectures, pre-training, task adaptation and domain
+adaptation. This highlights unanswered questions on the appropriate objectives
+for learning transferable knowledge and for adapting the knowledge to new tasks
+and domains, avoiding catastrophic forgetting and negative transfer. Finally,
+we implement a benchmark and an open-source library, enabling a fair evaluation
+of deep learning methods in terms of transferability.
+",2022-01-15T15:03:17Z,2022-01-15T15:03:17Z
+http://arxiv.org/abs/1901.04195v1,Integrating Learning and Reasoning with Deep Logic Models,"Giuseppe Marra,Francesco Giannini,Michelangelo Diligenti,Marco Gori",,"  Deep learning is very effective at jointly learning feature representations
+and classification models, especially when dealing with high dimensional input
+patterns. Probabilistic logic reasoning, on the other hand, is capable to take
+consistent and robust decisions in complex environments. The integration of
+deep learning and logic reasoning is still an open-research problem and it is
+considered to be the key for the development of real intelligent agents. This
+paper presents Deep Logic Models, which are deep graphical models integrating
+deep learning and logic reasoning both for learning and inference. Deep Logic
+Models create an end-to-end differentiable architecture, where deep learners
+are embedded into a network implementing a continuous relaxation of the logic
+knowledge. The learning process allows to jointly learn the weights of the deep
+learners and the meta-parameters controlling the high-level reasoning. The
+experimental results show that the proposed methodology overtakes the
+limitations of the other approaches that have been proposed to bridge deep
+learning and reasoning.
+",2019-01-14T09:06:28Z,2019-01-14T09:06:28Z
+http://arxiv.org/abs/2303.02715v1,Deep Learning in the Field of Biometric Template Protection: An Overview,"Christian Rathgeb,Jascha Kolberg,Andreas Uhl,Christoph Busch",,"  Today, deep learning represents the most popular and successful form of
+machine learning. Deep learning has revolutionised the field of pattern
+recognition, including biometric recognition. Biometric systems utilising deep
+learning have been shown to achieve auspicious recognition accuracy, surpassing
+human performance. Apart from said breakthrough advances in terms of biometric
+performance, the use of deep learning was reported to impact different
+covariates of biometrics such as algorithmic fairness, vulnerability to
+attacks, or template protection. Technologies of biometric template protection
+are designed to enable a secure and privacy-preserving deployment of
+biometrics. In the recent past, deep learning techniques have been frequently
+applied in biometric template protection systems for various purposes. This
+work provides an overview of how advances in deep learning take influence on
+the field of biometric template protection. The interrelation between improved
+biometric performance rates and security in biometric template protection is
+elaborated. Further, the use of deep learning for obtaining feature
+representations that are suitable for biometric template protection is
+discussed. Novel methods that apply deep learning to achieve various goals of
+biometric template protection are surveyed along with deep learning-based
+attacks.
+",2023-03-05T17:06:40Z,2023-03-05T17:06:40Z
+http://arxiv.org/abs/1805.03551v2,A Unified Framework of Deep Neural Networks by Capsules,"Yujian Li,Chuanhui Shan",,"  With the growth of deep learning, how to describe deep neural networks
+unifiedly is becoming an important issue. We first formalize neural networks
+mathematically with their directed graph representations, and prove a
+generation theorem about the induced networks of connected directed acyclic
+graphs. Then, we set up a unified framework for deep learning with capsule
+networks. This capsule framework could simplify the description of existing
+deep neural networks, and provide a theoretical basis of graphic designing and
+programming techniques for deep learning models, thus would be of great
+significance to the advancement of deep learning.
+",2018-05-09T14:23:17Z,2018-05-10T03:56:38Z
+http://arxiv.org/abs/2212.00253v1,"Distributed Deep Reinforcement Learning: A Survey and A Multi-Player
+  Multi-Agent Learning Toolbox","Qiyue Yin,Tongtong Yu,Shengqi Shen,Jun Yang,Meijing Zhao,Kaiqi Huang,Bin Liang,Liang Wang",,"  With the breakthrough of AlphaGo, deep reinforcement learning becomes a
+recognized technique for solving sequential decision-making problems. Despite
+its reputation, data inefficiency caused by its trial and error learning
+mechanism makes deep reinforcement learning hard to be practical in a wide
+range of areas. Plenty of methods have been developed for sample efficient deep
+reinforcement learning, such as environment modeling, experience transfer, and
+distributed modifications, amongst which, distributed deep reinforcement
+learning has shown its potential in various applications, such as
+human-computer gaming, and intelligent transportation. In this paper, we
+conclude the state of this exciting field, by comparing the classical
+distributed deep reinforcement learning methods, and studying important
+components to achieve efficient distributed learning, covering single player
+single agent distributed deep reinforcement learning to the most complex
+multiple players multiple agents distributed deep reinforcement learning.
+Furthermore, we review recently released toolboxes that help to realize
+distributed deep reinforcement learning without many modifications of their
+non-distributed versions. By analyzing their strengths and weaknesses, a
+multi-player multi-agent distributed deep reinforcement learning toolbox is
+developed and released, which is further validated on Wargame, a complex
+environment, showing usability of the proposed toolbox for multiple players and
+multiple agents distributed deep reinforcement learning under complex games.
+Finally, we try to point out challenges and future trends, hoping this brief
+review can provide a guide or a spark for researchers who are interested in
+distributed deep reinforcement learning.
+",2022-12-01T03:39:24Z,2022-12-01T03:39:24Z
+http://arxiv.org/abs/1710.06798v1,"Feature versus Raw Sequence: Deep Learning Comparative Study on
+  Predicting Pre-miRNA","Jaya Thomas,Sonia Thomas,Lee Sael",,"  Should we input known genome sequence features or input sequence itself in
+deep learning framework? As deep learning more popular in various applications,
+researchers often come to question whether to generate features or use raw
+sequences for deep learning. To answer this question, we study the prediction
+accuracy of precursor miRNA prediction of feature-based deep belief network and
+sequence-based convolution neural network. Tested on a variant of six-layer
+convolution neural net and three-layer deep belief network, we find the raw
+sequence input based convolution neural network model performs similar or
+slightly better than feature based deep belief networks with best accuracy
+values of 0.995 and 0.990, respectively. Both the models outperform existing
+benchmarks models. The results shows us that if provided large enough data,
+well devised raw sequence based deep learning models can replace feature based
+deep learning models. However, construction of well behaved deep learning model
+can be very challenging. In cased features can be easily extracted,
+feature-based deep learning models may be a better alternative.
+",2017-10-17T14:09:00Z,2017-10-17T14:09:00Z
+http://arxiv.org/abs/1807.06399v1,Are Efficient Deep Representations Learnable?,"Maxwell Nye,Andrew Saxe",,"  Many theories of deep learning have shown that a deep network can require
+dramatically fewer resources to represent a given function compared to a
+shallow network. But a question remains: can these efficient representations be
+learned using current deep learning techniques? In this work, we test whether
+standard deep learning methods can in fact find the efficient representations
+posited by several theories of deep representation. Specifically, we train deep
+neural networks to learn two simple functions with known efficient solutions:
+the parity function and the fast Fourier transform. We find that using
+gradient-based optimization, a deep network does not learn the parity function,
+unless initialized very close to a hand-coded exact solution. We also find that
+a deep linear neural network does not learn the fast Fourier transform, even in
+the best-case scenario of infinite training data, unless the weights are
+initialized very close to the exact hand-coded solution. Our results suggest
+that not every element of the class of compositional functions can be learned
+efficiently by a deep network, and further restrictions are necessary to
+understand what functions are both efficiently representable and learnable.
+",2018-07-17T13:08:21Z,2018-07-17T13:08:21Z
+http://arxiv.org/abs/1801.00631v1,Deep Learning: A Critical Appraisal,Gary Marcus,,"  Although deep learning has historical roots going back decades, neither the
+term ""deep learning"" nor the approach was popular just over five years ago,
+when the field was reignited by papers such as Krizhevsky, Sutskever and
+Hinton's now classic (2012) deep network model of Imagenet. What has the field
+discovered in the five subsequent years? Against a background of considerable
+progress in areas such as speech recognition, image recognition, and game
+playing, and considerable enthusiasm in the popular press, I present ten
+concerns for deep learning, and suggest that deep learning must be supplemented
+by other techniques if we are to reach artificial general intelligence.
+",2018-01-02T12:49:35Z,2018-01-02T12:49:35Z
+http://arxiv.org/abs/1801.07883v2,Deep Learning for Sentiment Analysis : A Survey,"Lei Zhang,Shuai Wang,Bing Liu",,"  Deep learning has emerged as a powerful machine learning technique that
+learns multiple layers of representations or features of the data and produces
+state-of-the-art prediction results. Along with the success of deep learning in
+many other application domains, deep learning is also popularly used in
+sentiment analysis in recent years. This paper first gives an overview of deep
+learning and then provides a comprehensive survey of its current applications
+in sentiment analysis.
+",2018-01-24T07:32:29Z,2018-01-30T07:20:41Z
+http://arxiv.org/abs/2310.19495v1,Deep Learning for Visual Navigation of Underwater Robots,M. Sunbeam,,"  This paper aims to briefly survey deep learning methods for visual navigation
+of underwater robotics. The scope of this paper includes the visual perception
+of underwater robotics with deep learning methods, the available visual
+underwater datasets, imitation learning, and reinforcement learning methods for
+navigation. Additionally, relevant works will be categorized under the
+imitation learning or deep learning paradigm for underwater robots for clarity
+of the training methodologies in the current landscape. Literature that uses
+deep learning algorithms to process non-visual data for underwater navigation
+will not be considered, except as contrasting examples.
+",2023-10-30T12:37:49Z,2023-10-30T12:37:49Z
+http://arxiv.org/abs/1807.04739v1,When deep learning meets security,Majd Latah,,"  Deep learning is an emerging research field that has proven its effectiveness
+towards deploying more efficient intelligent systems. Security, on the other
+hand, is one of the most essential issues in modern communication systems.
+Recently many papers have shown that using deep learning models can achieve
+promising results when applied to the security domain. In this work, we provide
+an overview for the recent studies that apply deep learning techniques to the
+field of security.
+",2018-07-12T17:44:42Z,2018-07-12T17:44:42Z
+http://arxiv.org/abs/2212.12597v1,Deep Causal Learning for Robotic Intelligence,Yangming Li,,"  This invited review discusses causal learning in the context of robotic
+intelligence. The paper introduced the psychological findings on causal
+learning in human cognition, then it introduced the traditional statistical
+solutions on causal discovery and causal inference. The paper reviewed recent
+deep causal learning algorithms with a focus on their architectures and the
+benefits of using deep nets and discussed the gap between deep causal learning
+and the needs of robotic intelligence.
+",2022-12-23T21:44:31Z,2022-12-23T21:44:31Z
+http://arxiv.org/abs/1802.08717v1,"Deep learning in radiology: an overview of the concepts and a survey of
+  the state of the art","Maciej A. Mazurowski,Mateusz Buda,Ashirbani Saha,Mustafa R. Bashir",,"  Deep learning is a branch of artificial intelligence where networks of simple
+interconnected units are used to extract patterns from data in order to solve
+complex problems. Deep learning algorithms have shown groundbreaking
+performance in a variety of sophisticated tasks, especially those related to
+images. They have often matched or exceeded human performance. Since the
+medical field of radiology mostly relies on extracting useful information from
+images, it is a very natural application area for deep learning, and research
+in this area has rapidly grown in recent years. In this article, we review the
+clinical reality of radiology and discuss the opportunities for application of
+deep learning algorithms. We also introduce basic concepts of deep learning
+including convolutional neural networks. Then, we present a survey of the
+research in deep learning applied to radiology. We organize the studies by the
+types of specific tasks that they attempt to solve and review the broad range
+of utilized deep learning algorithms. Finally, we briefly discuss opportunities
+and challenges for incorporating deep learning in the radiology practice of the
+future.
+",2018-02-10T04:00:55Z,2018-02-10T04:00:55Z
+http://arxiv.org/abs/1803.10862v1,A Survey on Deep Learning Methods for Robot Vision,"Javier Ruiz-del-Solar,Patricio Loncomilla,Naiomi Soto",,"  Deep learning has allowed a paradigm shift in pattern recognition, from using
+hand-crafted features together with statistical classifiers to using
+general-purpose learning procedures for learning data-driven representations,
+features, and classifiers together. The application of this new paradigm has
+been particularly successful in computer vision, in which the development of
+deep learning methods for vision applications has become a hot research topic.
+Given that deep learning has already attracted the attention of the robot
+vision community, the main purpose of this survey is to address the use of deep
+learning in robot vision. To achieve this, a comprehensive overview of deep
+learning and its usage in computer vision is given, that includes a description
+of the most frequently used neural models and their main application areas.
+Then, the standard methodology and tools used for designing deep-learning based
+vision systems are presented. Afterwards, a review of the principal work using
+deep learning in robot vision is presented, as well as current and future
+trends related to the use of deep learning in robotics. This survey is intended
+to be a guide for the developers of robot vision systems.
+",2018-03-28T21:37:14Z,2018-03-28T21:37:14Z
+http://arxiv.org/abs/1906.06706v7,Interpretations of Deep Learning by Forests and Haar Wavelets,Changcun Huang,,"  This paper presents a basic property of region dividing of ReLU (rectified
+linear unit) deep learning when new layers are successively added, by which two
+new perspectives of interpreting deep learning are given. The first is related
+to decision trees and forests; we construct a deep learning structure
+equivalent to a forest in classification abilities, which means that certain
+kinds of ReLU deep learning can be considered as forests. The second
+perspective is that Haar wavelet represented functions can be approximated by
+ReLU deep learning with arbitrary precision; and then a general conclusion of
+function approximation abilities of ReLU deep learning is given. Finally,
+generalize some of the conclusions of ReLU deep learning to the case of
+sigmoid-unit deep learning.
+",2019-06-16T14:38:41Z,2019-12-06T15:03:06Z
+http://arxiv.org/abs/1904.05526v2,A Selective Overview of Deep Learning,"Jianqing Fan,Cong Ma,Yiqiao Zhong",,"  Deep learning has arguably achieved tremendous success in recent years. In
+simple words, deep learning uses the composition of many nonlinear functions to
+model the complex dependency between input features and labels. While neural
+networks have a long history, recent advances have greatly improved their
+performance in computer vision, natural language processing, etc. From the
+statistical and scientific perspective, it is natural to ask: What is deep
+learning? What are the new characteristics of deep learning, compared with
+classical methods? What are the theoretical foundations of deep learning? To
+answer these questions, we introduce common neural network models (e.g.,
+convolutional neural nets, recurrent neural nets, generative adversarial nets)
+and training techniques (e.g., stochastic gradient descent, dropout, batch
+normalization) from a statistical point of view. Along the way, we highlight
+new characteristics of deep learning (including depth and over-parametrization)
+and explain their practical and theoretical benefits. We also sample recent
+results on theories of deep learning, many of which are only suggestive. While
+a complete understanding of deep learning remains elusive, we hope that our
+perspectives and discussions serve as a stimulus for new statistical research.
+",2019-04-10T17:53:15Z,2019-04-15T13:59:45Z
+http://arxiv.org/abs/1708.05866v2,A Brief Survey of Deep Reinforcement Learning,"Kai Arulkumaran,Marc Peter Deisenroth,Miles Brundage,Anil Anthony Bharath",,"  Deep reinforcement learning is poised to revolutionise the field of AI and
+represents a step towards building autonomous systems with a higher level
+understanding of the visual world. Currently, deep learning is enabling
+reinforcement learning to scale to problems that were previously intractable,
+such as learning to play video games directly from pixels. Deep reinforcement
+learning algorithms are also applied to robotics, allowing control policies for
+robots to be learned directly from camera inputs in the real world. In this
+survey, we begin with an introduction to the general field of reinforcement
+learning, then progress to the main streams of value-based and policy-based
+methods. Our survey will cover central algorithms in deep reinforcement
+learning, including the deep $Q$-network, trust region policy optimisation, and
+asynchronous advantage actor-critic. In parallel, we highlight the unique
+advantages of deep neural networks, focusing on visual understanding via
+reinforcement learning. To conclude, we describe several current areas of
+research within the field.
+",2017-08-19T15:55:31Z,2017-09-28T21:51:43Z
+http://arxiv.org/abs/2302.03836v1,Topological Deep Learning: A Review of an Emerging Paradigm,"Ali Zia,Abdelwahed Khamis,James Nichols,Zeeshan Hayder,Vivien Rolland,Lars Petersson",,"  Topological data analysis (TDA) provides insight into data shape. The
+summaries obtained by these methods are principled global descriptions of
+multi-dimensional data whilst exhibiting stable properties such as robustness
+to deformation and noise. Such properties are desirable in deep learning
+pipelines but they are typically obtained using non-TDA strategies. This is
+partly caused by the difficulty of combining TDA constructs (e.g. barcode and
+persistence diagrams) with current deep learning algorithms. Fortunately, we
+are now witnessing a growth of deep learning applications embracing
+topologically-guided components. In this survey, we review the nascent field of
+topological deep learning by first revisiting the core concepts of TDA. We then
+explore how the use of TDA techniques has evolved over time to support deep
+learning frameworks, and how they can be integrated into different aspects of
+deep learning. Furthermore, we touch on TDA usage for analyzing existing deep
+models; deep topological analytics. Finally, we discuss the challenges and
+future prospects of topological deep learning.
+",2023-02-08T02:11:24Z,2023-02-08T02:11:24Z
+http://arxiv.org/abs/1803.03772v2,Generalization and Expressivity for Deep Nets,Shao-Bo Lin,,"  Along with the rapid development of deep learning in practice, the
+theoretical explanations for its success become urgent. Generalization and
+expressivity are two widely used measurements to quantify theoretical behaviors
+of deep learning. The expressivity focuses on finding functions expressible by
+deep nets but cannot be approximated by shallow nets with the similar number of
+neurons. It usually implies the large capacity. The generalization aims at
+deriving fast learning rate for deep nets. It usually requires small capacity
+to reduce the variance. Different from previous studies on deep learning,
+pursuing either expressivity or generalization, we take both factors into
+account to explore the theoretical advantages of deep nets. For this purpose,
+we construct a deep net with two hidden layers possessing excellent
+expressivity in terms of localized and sparse approximation. Then, utilizing
+the well known covering number to measure the capacity, we find that deep nets
+possess excellent expressive power (measured by localized and sparse
+approximation) without enlarging the capacity of shallow nets. As a
+consequence, we derive near optimal learning rates for implementing empirical
+risk minimization (ERM) on the constructed deep nets. These results
+theoretically exhibit the advantage of deep nets from learning theory
+viewpoints.
+",2018-03-10T07:41:25Z,2018-03-23T13:53:06Z
+http://arxiv.org/abs/1703.02910v1,Deep Bayesian Active Learning with Image Data,"Yarin Gal,Riashat Islam,Zoubin Ghahramani",,"  Even though active learning forms an important pillar of machine learning,
+deep learning tools are not prevalent within it. Deep learning poses several
+difficulties when used in an active learning setting. First, active learning
+(AL) methods generally rely on being able to learn and update models from small
+amounts of data. Recent advances in deep learning, on the other hand, are
+notorious for their dependence on large amounts of data. Second, many AL
+acquisition functions rely on model uncertainty, yet deep learning methods
+rarely represent such model uncertainty. In this paper we combine recent
+advances in Bayesian deep learning into the active learning framework in a
+practical way. We develop an active learning framework for high dimensional
+data, a task which has been extremely challenging so far, with very sparse
+existing literature. Taking advantage of specialised models such as Bayesian
+convolutional neural networks, we demonstrate our active learning techniques
+with image data, obtaining a significant improvement on existing active
+learning approaches. We demonstrate this on both the MNIST dataset, as well as
+for skin cancer diagnosis from lesion images (ISIC2016 task).
+",2017-03-08T16:53:57Z,2017-03-08T16:53:57Z
+http://arxiv.org/abs/2007.14313v2,"Deep frequency principle towards understanding why deeper learning is
+  faster","Zhi-Qin John Xu,Hanxu Zhou",,"  Understanding the effect of depth in deep learning is a critical problem. In
+this work, we utilize the Fourier analysis to empirically provide a promising
+mechanism to understand why feedforward deeper learning is faster. To this end,
+we separate a deep neural network, trained by normal stochastic gradient
+descent, into two parts during analysis, i.e., a pre-condition component and a
+learning component, in which the output of the pre-condition one is the input
+of the learning one. We use a filtering method to characterize the frequency
+distribution of a high-dimensional function. Based on experiments of deep
+networks and real dataset, we propose a deep frequency principle, that is, the
+effective target function for a deeper hidden layer biases towards lower
+frequency during the training. Therefore, the learning component effectively
+learns a lower frequency function if the pre-condition component has more
+layers. Due to the well-studied frequency principle, i.e., deep neural networks
+learn lower frequency functions faster, the deep frequency principle provides a
+reasonable explanation to why deeper learning is faster. We believe these
+empirical studies would be valuable for future theoretical studies of the
+effect of depth in deep learning.
+",2020-07-28T15:35:49Z,2020-12-20T05:24:13Z
+http://arxiv.org/abs/1708.03704v1,Deep Incremental Boosting,"Alan Mosca,George D Magoulas",,"  This paper introduces Deep Incremental Boosting, a new technique derived from
+AdaBoost, specifically adapted to work with Deep Learning methods, that reduces
+the required training time and improves generalisation. We draw inspiration
+from Transfer of Learning approaches to reduce the start-up time to training
+each incremental Ensemble member. We show a set of experiments that outlines
+some preliminary results on some common Deep Learning datasets and discuss the
+potential improvements Deep Incremental Boosting brings to traditional Ensemble
+methods in Deep Learning.
+",2017-08-11T21:05:58Z,2017-08-11T21:05:58Z
+http://arxiv.org/abs/2207.03757v2,Combining Deep Learning with Good Old-Fashioned Machine Learning,Moshe Sipper,,"  We present a comprehensive, stacking-based framework for combining deep
+learning with good old-fashioned machine learning, called Deep GOld. Our
+framework involves ensemble selection from 51 retrained pretrained deep
+networks as first-level models, and 10 machine-learning algorithms as
+second-level models. Enabled by today's state-of-the-art software tools and
+hardware platforms, Deep GOld delivers consistent improvement when tested on
+four image-classification datasets: Fashion MNIST, CIFAR10, CIFAR100, and Tiny
+ImageNet. Of 120 experiments, in all but 10 Deep GOld improved the original
+networks' performance.
+",2022-07-08T08:58:43Z,2022-11-11T10:14:02Z
+http://arxiv.org/abs/2006.05579v1,"Deep reinforcement learning for optical systems: A case study of
+  mode-locked lasers","Chang Sun,Eurika Kaiser,Steven L. Brunton,J. Nathan Kutz",,"  We demonstrate that deep reinforcement learning (deep RL) provides a highly
+effective strategy for the control and self-tuning of optical systems. Deep RL
+integrates the two leading machine learning architectures of deep neural
+networks and reinforcement learning to produce robust and stable learning for
+control. Deep RL is ideally suited for optical systems as the tuning and
+control relies on interactions with its environment with a goal-oriented
+objective to achieve optimal immediate or delayed rewards. This allows the
+optical system to recognize bi-stable structures and navigate, via trajectory
+planning, to optimally performing solutions, the first such algorithm
+demonstrated to do so in optical systems. We specifically demonstrate the deep
+RL architecture on a mode-locked laser, where robust self-tuning and control
+can be established through access of the deep RL agent to its waveplates and
+polarizers. We further integrate transfer learning to help the deep RL agent
+rapidly learn new parameter regimes and generalize its control authority.
+Additionally, the deep RL learning can be easily integrated with other control
+paradigms to provide a broad framework to control any optical system.
+",2020-06-10T00:30:36Z,2020-06-10T00:30:36Z
+http://arxiv.org/abs/2111.12963v1,"Error Bounds for a Matrix-Vector Product Approximation with Deep ReLU
+  Neural Networks",Tilahun M. Getu,,"  Among the several paradigms of artificial intelligence (AI) or machine
+learning (ML), a remarkably successful paradigm is deep learning. Deep
+learning's phenomenal success has been hoped to be interpreted via fundamental
+research on the theory of deep learning. Accordingly, applied research on deep
+learning has spurred the theory of deep learning-oriented depth and breadth of
+developments. Inspired by such developments, we pose these fundamental
+questions: can we accurately approximate an arbitrary matrix-vector product
+using deep rectified linear unit (ReLU) feedforward neural networks (FNNs)? If
+so, can we bound the resulting approximation error? In light of these
+questions, we derive error bounds in Lebesgue and Sobolev norms that comprise
+our developed deep approximation theory. Guided by this theory, we have
+successfully trained deep ReLU FNNs whose test results justify our developed
+theory. The developed theory is also applicable for guiding and easing the
+training of teacher deep ReLU FNNs in view of the emerging teacher-student AI
+or ML paradigms that are essential for solving several AI or ML problems in
+wireless communications and signal processing; network science and graph signal
+processing; and network neuroscience and brain physics.
+",2021-11-25T08:14:55Z,2021-11-25T08:14:55Z
+http://arxiv.org/abs/1212.2686v1,Joint Training of Deep Boltzmann Machines,"Ian Goodfellow,Aaron Courville,Yoshua Bengio",,"  We introduce a new method for training deep Boltzmann machines jointly. Prior
+methods require an initial learning pass that trains the deep Boltzmann machine
+greedily, one layer at a time, or do not perform well on classifi- cation
+tasks.
+",2012-12-12T01:59:27Z,2012-12-12T01:59:27Z
+http://arxiv.org/abs/2003.03253v1,Introduction to deep learning,"Lihi Shiloh-Perl,Raja Giryes",,"  Deep Learning (DL) has made a major impact on data science in the last
+decade. This chapter introduces the basic concepts of this field. It includes
+both the basic structures used to design deep neural networks and a brief
+survey of some of its popular use cases.
+",2020-02-29T14:52:28Z,2020-02-29T14:52:28Z
+http://arxiv.org/abs/2205.01069v1,Deep Learning: From Basics to Building Deep Neural Networks with Python,Milad Vazan,,"  This book is intended for beginners who have no familiarity with deep
+learning. Our only expectation from readers is that they already have the basic
+programming skills in Python.
+",2022-04-22T11:57:19Z,2022-04-22T11:57:19Z
+http://arxiv.org/abs/2004.00993v2,Augmented Q Imitation Learning (AQIL),"Xiao Lei Zhang,Anish Agarwal",,"  The study of unsupervised learning can be generally divided into two
+categories: imitation learning and reinforcement learning. In imitation
+learning the machine learns by mimicking the behavior of an expert system
+whereas in reinforcement learning the machine learns via direct environment
+feedback. Traditional deep reinforcement learning takes a significant time
+before the machine starts to converge to an optimal policy. This paper proposes
+Augmented Q-Imitation-Learning, a method by which deep reinforcement learning
+convergence can be accelerated by applying Q-imitation-learning as the initial
+training process in traditional Deep Q-learning.
+",2020-03-31T18:08:23Z,2020-04-05T17:16:23Z
+http://arxiv.org/abs/2010.09465v1,"A Nesterov's Accelerated quasi-Newton method for Global Routing using
+  Deep Reinforcement Learning","S. Indrapriyadarsini,Shahrzad Mahboubi,Hiroshi Ninomiya,Takeshi Kamio,Hideki Asai",,"  Deep Q-learning method is one of the most popularly used deep reinforcement
+learning algorithms which uses deep neural networks to approximate the
+estimation of the action-value function. Training of the deep Q-network (DQN)
+is usually restricted to first order gradient based methods. This paper
+attempts to accelerate the training of deep Q-networks by introducing a second
+order Nesterov's accelerated quasi-Newton method. We evaluate the performance
+of the proposed method on deep reinforcement learning using double DQNs for
+global routing. The results show that the proposed method can obtain better
+routing solutions compared to the DQNs trained with first order Adam and
+RMSprop methods.
+",2020-10-15T07:30:17Z,2020-10-15T07:30:17Z
+http://arxiv.org/abs/1709.05067v1,Deep Reinforcement Learning for Conversational AI,"Mahipal Jadeja,Neelanshi Varia,Agam Shah",,"  Deep reinforcement learning is revolutionizing the artificial intelligence
+field. Currently, it serves as a good starting point for constructing
+intelligent autonomous systems which offer a better knowledge of the visual
+world. It is possible to scale deep reinforcement learning with the use of deep
+learning and do amazing tasks such as use of pixels in playing video games. In
+this paper, key concepts of deep reinforcement learning including reward
+function, differences between reinforcement learning and supervised learning
+and models for implementation of reinforcement are discussed. Key challenges
+related to the implementation of reinforcement learning in conversational AI
+domain are identified as well as discussed in detail. Various conversational
+models which are based on deep reinforcement learning (as well as deep
+learning) are also discussed. In summary, this paper discusses key aspects of
+deep reinforcement learning which are crucial for designing an efficient
+conversational AI.
+",2017-09-15T06:18:33Z,2017-09-15T06:18:33Z
+http://arxiv.org/abs/2006.05278v2,An Overview of Deep Semi-Supervised Learning,"Yassine Ouali,Céline Hudelot,Myriam Tami",,"  Deep neural networks demonstrated their ability to provide remarkable
+performances on a wide range of supervised learning tasks (e.g., image
+classification) when trained on extensive collections of labeled data (e.g.,
+ImageNet). However, creating such large datasets requires a considerable amount
+of resources, time, and effort. Such resources may not be available in many
+practical cases, limiting the adoption and the application of many deep
+learning methods. In a search for more data-efficient deep learning methods to
+overcome the need for large annotated datasets, there is a rising research
+interest in semi-supervised learning and its applications to deep neural
+networks to reduce the amount of labeled data required, by either developing
+novel methods or adopting existing semi-supervised learning frameworks for a
+deep learning setting. In this paper, we provide a comprehensive overview of
+deep semi-supervised learning, starting with an introduction to the field,
+followed by a summarization of the dominant semi-supervised approaches in deep
+learning.
+",2020-06-09T14:08:03Z,2020-07-06T17:38:19Z
+http://arxiv.org/abs/1602.06183v1,Node-By-Node Greedy Deep Learning for Interpretable Features,"Ke Wu,Malik Magdon-Ismail",,"  Multilayer networks have seen a resurgence under the umbrella of deep
+learning. Current deep learning algorithms train the layers of the network
+sequentially, improving algorithmic performance as well as providing some
+regularization. We present a new training algorithm for deep networks which
+trains \emph{each node in the network} sequentially. Our algorithm is orders of
+magnitude faster, creates more interpretable internal representations at the
+node level, while not sacrificing on the ultimate out-of-sample performance.
+",2016-02-19T15:36:38Z,2016-02-19T15:36:38Z
+http://arxiv.org/abs/1605.01369v2,Accelerating Deep Learning with Shrinkage and Recall,"Shuai Zheng,Abhinav Vishnu,Chris Ding",,"  Deep Learning is a very powerful machine learning model. Deep Learning trains
+a large number of parameters for multiple layers and is very slow when data is
+in large scale and the architecture size is large. Inspired from the shrinking
+technique used in accelerating computation of Support Vector Machines (SVM)
+algorithm and screening technique used in LASSO, we propose a shrinking Deep
+Learning with recall (sDLr) approach to speed up deep learning computation. We
+experiment shrinking Deep Learning with recall (sDLr) using Deep Neural Network
+(DNN), Deep Belief Network (DBN) and Convolution Neural Network (CNN) on 4 data
+sets. Results show that the speedup using shrinking Deep Learning with recall
+(sDLr) can reach more than 2.0 while still giving competitive classification
+performance.
+",2016-05-04T18:17:37Z,2016-09-19T19:27:39Z
+http://arxiv.org/abs/1802.00810v4,Deep Learning for Genomics: A Concise Overview,"Tianwei Yue,Yuanxin Wang,Longxiang Zhang,Chunming Gu,Haoru Xue,Wenping Wang,Qi Lyu,Yujie Dun",,"  Advancements in genomic research such as high-throughput sequencing
+techniques have driven modern genomic studies into ""big data"" disciplines. This
+data explosion is constantly challenging conventional methods used in genomics.
+In parallel with the urgent demand for robust algorithms, deep learning has
+succeeded in a variety of fields such as vision, speech, and text processing.
+Yet genomics entails unique challenges to deep learning since we are expecting
+from deep learning a superhuman intelligence that explores beyond our knowledge
+to interpret the genome. A powerful deep learning model should rely on
+insightful utilization of task-specific knowledge. In this paper, we briefly
+discuss the strengths of different deep learning models from a genomic
+perspective so as to fit each particular task with a proper deep architecture,
+and remark on practical considerations of developing modern deep learning
+architectures for genomics. We also provide a concise review of deep learning
+applications in various aspects of genomic research, as well as pointing out
+potential opportunities and obstacles for future genomics applications.
+",2018-02-02T12:50:25Z,2023-10-04T20:26:48Z
+http://arxiv.org/abs/2009.10568v1,"Adversarial Attack Based Countermeasures against Deep Learning
+  Side-Channel Attacks","Ruizhe Gu,Ping Wang,Mengce Zheng,Honggang Hu,Nenghai Yu",,"  Numerous previous works have studied deep learning algorithms applied in the
+context of side-channel attacks, which demonstrated the ability to perform
+successful key recoveries. These studies show that modern cryptographic devices
+are increasingly threatened by side-channel attacks with the help of deep
+learning. However, the existing countermeasures are designed to resist
+classical side-channel attacks, and cannot protect cryptographic devices from
+deep learning based side-channel attacks. Thus, there arises a strong need for
+countermeasures against deep learning based side-channel attacks. Although deep
+learning has the high potential in solving complex problems, it is vulnerable
+to adversarial attacks in the form of subtle perturbations to inputs that lead
+a model to predict incorrectly.
+  In this paper, we propose a kind of novel countermeasures based on
+adversarial attacks that is specifically designed against deep learning based
+side-channel attacks. We estimate several models commonly used in deep learning
+based side-channel attacks to evaluate the proposed countermeasures. It shows
+that our approach can effectively protect cryptographic devices from deep
+learning based side-channel attacks in practice. In addition, our experiments
+show that the new countermeasures can also resist classical side-channel
+attacks.
+",2020-09-22T14:17:18Z,2020-09-22T14:17:18Z
+http://arxiv.org/abs/2108.10451v1,"Adversarial Robustness of Deep Learning: Theory, Algorithms, and
+  Applications","Wenjie Ruan,Xinping Yi,Xiaowei Huang",,"  This tutorial aims to introduce the fundamentals of adversarial robustness of
+deep learning, presenting a well-structured review of up-to-date techniques to
+assess the vulnerability of various types of deep learning models to
+adversarial examples. This tutorial will particularly highlight
+state-of-the-art techniques in adversarial attacks and robustness verification
+of deep neural networks (DNNs). We will also introduce some effective
+countermeasures to improve the robustness of deep learning models, with a
+particular focus on adversarial training. We aim to provide a comprehensive
+overall picture about this emerging direction and enable the community to be
+aware of the urgency and importance of designing robust deep learning models in
+safety-critical data analytical applications, ultimately enabling the end-users
+to trust deep learning classifiers. We will also summarize potential research
+directions concerning the adversarial robustness of deep learning, and its
+potential benefits to enable accountable and trustworthy deep learning-based
+data analytical systems and applications.
+",2021-08-24T00:08:33Z,2021-08-24T00:08:33Z
+http://arxiv.org/abs/2405.18281v1,MODL: Multilearner Online Deep Learning,"Antonios Valkanas,Boris N. Oreshkin,Mark Coates",,"  Online deep learning solves the problem of learning from streams of data,
+reconciling two opposing objectives: learn fast and learn deep. Existing work
+focuses almost exclusively on exploring pure deep learning solutions, which are
+much better suited to handle the ""deep"" than the ""fast"" part of the online
+learning equation. In our work, we propose a different paradigm, based on a
+hybrid multilearner approach. First, we develop a fast online logistic
+regression learner. This learner does not rely on backpropagation. Instead, it
+uses closed form recursive updates of model parameters, handling the fast
+learning part of the online learning problem. We then analyze the existing
+online deep learning theory and show that the widespread ODL approach,
+currently operating at complexity $O(L^2)$ in terms of the number of layers
+$L$, can be equivalently implemented in $O(L)$ complexity. This further leads
+us to the cascaded multilearner design, in which multiple shallow and deep
+learners are co-trained to solve the online learning problem in a cooperative,
+synergistic fashion. We show that this approach achieves state-of-the-art
+results on common online learning datasets, while also being able to handle
+missing features gracefully. Our code is publicly available at
+https://github.com/AntonValk/MODL.
+",2024-05-28T15:34:33Z,2024-05-28T15:34:33Z
+http://arxiv.org/abs/1512.03844v1,Efficient Deep Feature Learning and Extraction via StochasticNets,"Mohammad Javad Shafiee,Parthipan Siva,Paul Fieguth,Alexander Wong",,"  Deep neural networks are a powerful tool for feature learning and extraction
+given their ability to model high-level abstractions in highly complex data.
+One area worth exploring in feature learning and extraction using deep neural
+networks is efficient neural connectivity formation for faster feature learning
+and extraction. Motivated by findings of stochastic synaptic connectivity
+formation in the brain as well as the brain's uncanny ability to efficiently
+represent information, we propose the efficient learning and extraction of
+features via StochasticNets, where sparsely-connected deep neural networks can
+be formed via stochastic connectivity between neurons. To evaluate the
+feasibility of such a deep neural network architecture for feature learning and
+extraction, we train deep convolutional StochasticNets to learn abstract
+features using the CIFAR-10 dataset, and extract the learned features from
+images to perform classification on the SVHN and STL-10 datasets. Experimental
+results show that features learned using deep convolutional StochasticNets,
+with fewer neural connections than conventional deep convolutional neural
+networks, can allow for better or comparable classification accuracy than
+conventional deep neural networks: relative test error decrease of ~4.5% for
+classification on the STL-10 dataset and ~1% for classification on the SVHN
+dataset. Furthermore, it was shown that the deep features extracted using deep
+convolutional StochasticNets can provide comparable classification accuracy
+even when only 10% of the training data is used for feature learning. Finally,
+it was also shown that significant gains in feature extraction speed can be
+achieved in embedded applications using StochasticNets. As such, StochasticNets
+allow for faster feature learning and extraction performance while facilitate
+for better or comparable accuracy performances.
+",2015-12-11T22:47:34Z,2015-12-11T22:47:34Z
+http://arxiv.org/abs/1906.10025v2,Modern Deep Reinforcement Learning Algorithms,"Sergey Ivanov,Alexander D'yakonov",,"  Recent advances in Reinforcement Learning, grounded on combining classical
+theoretical results with Deep Learning paradigm, led to breakthroughs in many
+artificial intelligence tasks and gave birth to Deep Reinforcement Learning
+(DRL) as a field of research. In this work latest DRL algorithms are reviewed
+with a focus on their theoretical justification, practical limitations and
+observed empirical properties.
+",2019-06-24T15:27:51Z,2019-07-06T18:30:45Z
+http://arxiv.org/abs/1905.07187v1,An Essay on Optimization Mystery of Deep Learning,Eugene Golikov,,"  Despite the huge empirical success of deep learning, theoretical
+understanding of neural networks learning process is still lacking. This is the
+reason, why some of its features seem ""mysterious"". We emphasize two mysteries
+of deep learning: generalization mystery, and optimization mystery. In this
+essay we review and draw connections between several selected works concerning
+the latter.
+",2019-05-17T10:28:06Z,2019-05-17T10:28:06Z
+http://arxiv.org/abs/1804.05806v1,Deep Embedding Kernel,"Linh Le,Ying Xie",,"  In this paper, we propose a novel supervised learning method that is called
+Deep Embedding Kernel (DEK). DEK combines the advantages of deep learning and
+kernel methods in a unified framework. More specifically, DEK is a learnable
+kernel represented by a newly designed deep architecture. Compared with
+pre-defined kernels, this kernel can be explicitly trained to map data to an
+optimized high-level feature space where data may have favorable features
+toward the application. Compared with typical deep learning using SoftMax or
+logistic regression as the top layer, DEK is expected to be more generalizable
+to new data. Experimental results show that DEK has superior performance than
+typical machine learning methods in identity detection, classification,
+regression, dimension reduction, and transfer learning.
+",2018-04-16T17:25:24Z,2018-04-16T17:25:24Z
+http://arxiv.org/abs/2105.06868v3,Priors in Bayesian Deep Learning: A Review,Vincent Fortuin,,"  While the choice of prior is one of the most critical parts of the Bayesian
+inference workflow, recent Bayesian deep learning models have often fallen back
+on vague priors, such as standard Gaussians. In this review, we highlight the
+importance of prior choices for Bayesian deep learning and present an overview
+of different priors that have been proposed for (deep) Gaussian processes,
+variational autoencoders, and Bayesian neural networks. We also outline
+different methods of learning priors for these models from data. We hope to
+motivate practitioners in Bayesian deep learning to think more carefully about
+the prior specification for their models and to provide them with some
+inspiration in this regard.
+",2021-05-14T14:53:30Z,2022-03-18T15:17:30Z
+http://arxiv.org/abs/2202.01319v1,Deep Learning for Epidemiologists: An Introduction to Neural Networks,"Stylianos Serghiou,Kathryn Rough",,"  Deep learning methods are increasingly being applied to problems in medicine
+and healthcare. However, few epidemiologists have received formal training in
+these methods. To bridge this gap, this article introduces to the fundamentals
+of deep learning from an epidemiological perspective. Specifically, this
+article reviews core concepts in machine learning (overfitting, regularization,
+hyperparameters), explains several fundamental deep learning architectures
+(convolutional neural networks, recurrent neural networks), and summarizes
+training, evaluation, and deployment of models. We aim to enable the reader to
+engage with and critically evaluate medical applications of deep learning,
+facilitating a dialogue between computer scientists and epidemiologists that
+will improve the safety and efficacy of applications of this technology.
+",2022-02-02T22:52:18Z,2022-02-02T22:52:18Z
+http://arxiv.org/abs/2403.19083v1,"Improving Cancer Imaging Diagnosis with Bayesian Networks and Deep
+  Learning: A Bayesian Deep Learning Approach","Pei Xi, Lin",,"  With recent advancements in the development of artificial intelligence
+applications using theories and algorithms in machine learning, many accurate
+models can be created to train and predict on given datasets. With the
+realization of the importance of imaging interpretation in cancer diagnosis,
+this article aims to investigate the theory behind Deep Learning and Bayesian
+Network prediction models. Based on the advantages and drawbacks of each model,
+different approaches will be used to construct a Bayesian Deep Learning Model,
+combining the strengths while minimizing the weaknesses. Finally, the
+applications and accuracy of the resulting Bayesian Deep Learning approach in
+the health industry in classifying images will be analyzed.
+",2024-03-28T01:27:10Z,2024-03-28T01:27:10Z
+http://arxiv.org/abs/1803.02323v1,Deep Super Learner: A Deep Ensemble for Classification Problems,"Steven Young,Tamer Abdou,Ayse Bener",,"  Deep learning has become very popular for tasks such as predictive modeling
+and pattern recognition in handling big data. Deep learning is a powerful
+machine learning method that extracts lower level features and feeds them
+forward for the next layer to identify higher level features that improve
+performance. However, deep neural networks have drawbacks, which include many
+hyper-parameters and infinite architectures, opaqueness into results, and
+relatively slower convergence on smaller datasets. While traditional machine
+learning algorithms can address these drawbacks, they are not typically capable
+of the performance levels achieved by deep neural networks. To improve
+performance, ensemble methods are used to combine multiple base learners. Super
+learning is an ensemble that finds the optimal combination of diverse learning
+algorithms. This paper proposes deep super learning as an approach which
+achieves log loss and accuracy results competitive to deep neural networks
+while employing traditional machine learning algorithms in a hierarchical
+structure. The deep super learner is flexible, adaptable, and easy to train
+with good performance across different tasks using identical hyper-parameter
+values. Using traditional machine learning requires fewer hyper-parameters,
+allows transparency into results, and has relatively fast convergence on
+smaller datasets. Experimental results show that the deep super learner has
+superior performance compared to the individual base learners, single-layer
+ensembles, and in some cases deep neural networks. Performance of the deep
+super learner may further be improved with task-specific tuning.
+",2018-03-06T18:19:55Z,2018-03-06T18:19:55Z
+http://arxiv.org/abs/2005.02612v1,Deep Divergence Learning,"Kubra Cilingir,Rachel Manzelli,Brian Kulis",,"  Classical linear metric learning methods have recently been extended along
+two distinct lines: deep metric learning methods for learning embeddings of the
+data using neural networks, and Bregman divergence learning approaches for
+extending learning Euclidean distances to more general divergence measures such
+as divergences over distributions. In this paper, we introduce deep Bregman
+divergences, which are based on learning and parameterizing functional Bregman
+divergences using neural networks, and which unify and extend these existing
+lines of work. We show in particular how deep metric learning formulations,
+kernel metric learning, Mahalanobis metric learning, and moment-matching
+functions for comparing distributions arise as special cases of these
+divergences in the symmetric setting. We then describe a deep learning
+framework for learning general functional Bregman divergences, and show in
+experiments that this method yields superior performance on benchmark datasets
+as compared to existing deep metric learning approaches. We also discuss novel
+applications, including a semi-supervised distributional clustering problem,
+and a new loss function for unsupervised data generation.
+",2020-05-06T06:43:25Z,2020-05-06T06:43:25Z
+http://arxiv.org/abs/1710.00211v1,"The Deep Ritz method: A deep learning-based numerical algorithm for
+  solving variational problems","Weinan E,Bing Yu",,"  We propose a deep learning based method, the Deep Ritz Method, for
+numerically solving variational problems, particularly the ones that arise from
+partial differential equations. The Deep Ritz method is naturally nonlinear,
+naturally adaptive and has the potential to work in rather high dimensions. The
+framework is quite simple and fits well with the stochastic gradient descent
+method used in deep learning. We illustrate the method on several problems
+including some eigenvalue problems.
+",2017-09-30T15:06:14Z,2017-09-30T15:06:14Z
+http://arxiv.org/abs/2106.16088v1,"Application of deep reinforcement learning for Indian stock trading
+  automation",Supriya Bajpai,,"  In stock trading, feature extraction and trading strategy design are the two
+important tasks to achieve long-term benefits using machine learning
+techniques. Several methods have been proposed to design trading strategy by
+acquiring trading signals to maximize the rewards. In the present paper the
+theory of deep reinforcement learning is applied for stock trading strategy and
+investment decisions to Indian markets. The experiments are performed
+systematically with three classical Deep Reinforcement Learning models Deep
+Q-Network, Double Deep Q-Network and Dueling Double Deep Q-Network on ten
+Indian stock datasets. The performance of the models are evaluated and
+comparison is made.
+",2021-05-18T15:49:00Z,2021-05-18T15:49:00Z
+http://arxiv.org/abs/1812.00564v1,"Split learning for health: Distributed deep learning without sharing raw
+  patient data","Praneeth Vepakomma,Otkrist Gupta,Tristan Swedish,Ramesh Raskar",,"  Can health entities collaboratively train deep learning models without
+sharing sensitive raw data? This paper proposes several configurations of a
+distributed deep learning method called SplitNN to facilitate such
+collaborations. SplitNN does not share raw data or model details with
+collaborating institutions. The proposed configurations of splitNN cater to
+practical settings of i) entities holding different modalities of patient data,
+ii) centralized and local health entities collaborating on multiple tasks and
+iii) learning without sharing labels. We compare performance and resource
+efficiency trade-offs of splitNN and other distributed deep learning methods
+like federated learning, large batch synchronous stochastic gradient descent
+and show highly encouraging results for splitNN.
+",2018-12-03T05:43:20Z,2018-12-03T05:43:20Z
+http://arxiv.org/abs/2209.12014v1,Asset Pricing and Deep Learning,Chen Zhang,,"  Traditional machine learning methods have been widely studied in financial
+innovation. My study focuses on the application of deep learning methods on
+asset pricing. I investigate various deep learning methods for asset pricing,
+especially for risk premia measurement. All models take the same set of
+predictive signals (firm characteristics, systematic risks and macroeconomics).
+I demonstrate high performance of all kinds of state-of-the-art (SOTA) deep
+learning methods, and figure out that RNNs with memory mechanism and attention
+have the best performance in terms of predictivity. Furthermore, I demonstrate
+large economic gains to investors using deep learning forecasts. The results of
+my comparative experiments highlight the importance of domain knowledge and
+financial theory when designing deep learning models. I also show return
+prediction tasks bring new challenges to deep learning. The time varying
+distribution causes distribution shift problem, which is essential for
+financial time series prediction. I demonstrate that deep learning methods can
+improve asset risk premium measurement. Due to the booming deep learning
+studies, they can constantly promote the study of underlying financial
+mechanisms behind asset pricing. I also propose a promising research method
+that learning from data and figuring out the underlying economic mechanisms
+through explainable artificial intelligence (AI) methods. My findings not only
+justify the value of deep learning in blooming fintech development, but also
+highlight their prospects and advantages over traditional machine learning
+methods.
+",2022-09-24T14:18:07Z,2022-09-24T14:18:07Z
+http://arxiv.org/abs/1810.08033v1,"Adaptivity of deep ReLU network for learning in Besov and mixed smooth
+  Besov spaces: optimal rate and curse of dimensionality",Taiji Suzuki,,"  Deep learning has shown high performances in various types of tasks from
+visual recognition to natural language processing, which indicates superior
+flexibility and adaptivity of deep learning. To understand this phenomenon
+theoretically, we develop a new approximation and estimation error analysis of
+deep learning with the ReLU activation for functions in a Besov space and its
+variant with mixed smoothness. The Besov space is a considerably general
+function space including the Holder space and Sobolev space, and especially can
+capture spatial inhomogeneity of smoothness. Through the analysis in the Besov
+space, it is shown that deep learning can achieve the minimax optimal rate and
+outperform any non-adaptive (linear) estimator such as kernel ridge regression,
+which shows that deep learning has higher adaptivity to the spatial
+inhomogeneity of the target function than other estimators such as linear ones.
+In addition to this, it is shown that deep learning can avoid the curse of
+dimensionality if the target function is in a mixed smooth Besov space. We also
+show that the dependency of the convergence rate on the dimensionality is tight
+due to its minimax optimality. These results support high adaptivity of deep
+learning and its superior ability as a feature extractor.
+",2018-10-18T13:17:20Z,2018-10-18T13:17:20Z
+http://arxiv.org/abs/1908.08843v2,Fairness in Deep Learning: A Computational Perspective,"Mengnan Du,Fan Yang,Na Zou,Xia Hu",,"  Deep learning is increasingly being used in high-stake decision making
+applications that affect individual lives. However, deep learning models might
+exhibit algorithmic discrimination behaviors with respect to protected groups,
+potentially posing negative impacts on individuals and society. Therefore,
+fairness in deep learning has attracted tremendous attention recently. We
+provide a review covering recent progresses to tackle algorithmic fairness
+problems of deep learning from the computational perspective. Specifically, we
+show that interpretability can serve as a useful ingredient to diagnose the
+reasons that lead to algorithmic discrimination. We also discuss fairness
+mitigation approaches categorized according to three stages of deep learning
+life-cycle, aiming to push forward the area of fairness in deep learning and
+build genuinely fair and reliable deep learning systems.
+",2019-08-23T14:38:07Z,2020-03-19T02:33:17Z
+http://arxiv.org/abs/1908.10206v1,The many faces of deep learning,Raul Vicente,,"  Deep learning has sparked a network of mutual interactions between different
+disciplines and AI. Naturally, each discipline focuses and interprets the
+workings of deep learning in different ways. This diversity of perspectives on
+deep learning, from neuroscience to statistical physics, is a rich source of
+inspiration that fuels novel developments in the theory and applications of
+machine learning. In this perspective, we collect and synthesize different
+intuitions scattered across several communities as for how deep learning works.
+In particular, we will briefly discuss the different perspectives that
+disciplines across mathematics, physics, computation, and neuroscience take on
+how deep learning does its tricks. Our discussion on each perspective is
+necessarily shallow due to the multiple views that had to be covered. The
+deepness in this case should come from putting all these faces of deep learning
+together in the reader's mind, so that one can look at the same problem from
+different angles.
+",2019-08-25T12:04:49Z,2019-08-25T12:04:49Z
+http://arxiv.org/abs/2110.08611v2,Deep Active Learning by Leveraging Training Dynamics,"Haonan Wang,Wei Huang,Ziwei Wu,Andrew Margenot,Hanghang Tong,Jingrui He",,"  Active learning theories and methods have been extensively studied in
+classical statistical learning settings. However, deep active learning, i.e.,
+active learning with deep learning models, is usually based on empirical
+criteria without solid theoretical justification, thus suffering from heavy
+doubts when some of those fail to provide benefits in real applications. In
+this paper, by exploring the connection between the generalization performance
+and the training dynamics, we propose a theory-driven deep active learning
+method (dynamicAL) which selects samples to maximize training dynamics. In
+particular, we prove that the convergence speed of training and the
+generalization performance are positively correlated under the ultra-wide
+condition and show that maximizing the training dynamics leads to better
+generalization performance. Furthermore, to scale up to large deep neural
+networks and data sets, we introduce two relaxations for the subset selection
+problem and reduce the time complexity from polynomial to constant. Empirical
+results show that dynamicAL not only outperforms the other baselines
+consistently but also scales well on large deep learning models. We hope our
+work would inspire more attempts on bridging the theoretical findings of deep
+networks and practical impacts of deep active learning in real applications.
+",2021-10-16T16:51:05Z,2022-11-20T07:20:36Z
+http://arxiv.org/abs/2305.17473v2,"A Comprehensive Overview and Comparative Analysis on Deep Learning
+  Models: CNN, RNN, LSTM, GRU","Farhad Mortezapour Shiri,Thinagaran Perumal,Norwati Mustapha,Raihani Mohamed",,"  Deep learning (DL) has emerged as a powerful subset of machine learning (ML)
+and artificial intelligence (AI), outperforming traditional ML methods,
+especially in handling unstructured and large datasets. Its impact spans across
+various domains, including speech recognition, healthcare, autonomous vehicles,
+cybersecurity, predictive analytics, and more. However, the complexity and
+dynamic nature of real-world problems present challenges in designing effective
+deep learning models. Consequently, several deep learning models have been
+developed to address different problems and applications. In this article, we
+conduct a comprehensive survey of various deep learning models, including
+Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs),
+Generative Models, Deep Reinforcement Learning (DRL), and Deep Transfer
+Learning. We examine the structure, applications, benefits, and limitations of
+each model. Furthermore, we perform an analysis using three publicly available
+datasets: IMDB, ARAS, and Fruit-360. We compare the performance of six renowned
+deep learning models: CNN, Simple RNN, Long Short-Term Memory (LSTM),
+Bidirectional LSTM, Gated Recurrent Unit (GRU), and Bidirectional GRU.
+",2023-05-27T13:23:21Z,2023-06-01T16:53:28Z
+http://arxiv.org/abs/2305.18357v1,DeepSI: Interactive Deep Learning for Semantic Interaction,"Yali Bian,Chris North",,"  In this paper, we design novel interactive deep learning methods to improve
+semantic interactions in visual analytics applications. The ability of semantic
+interaction to infer analysts' precise intents during sensemaking is dependent
+on the quality of the underlying data representation. We propose the
+$\text{DeepSI}_{\text{finetune}}$ framework that integrates deep learning into
+the human-in-the-loop interactive sensemaking pipeline, with two important
+properties. First, deep learning extracts meaningful representations from raw
+data, which improves semantic interaction inference. Second, semantic
+interactions are exploited to fine-tune the deep learning representations,
+which then further improves semantic interaction inference. This feedback loop
+between human interaction and deep learning enables efficient learning of user-
+and task-specific representations. To evaluate the advantage of embedding the
+deep learning within the semantic interaction loop, we compare
+$\text{DeepSI}_{\text{finetune}}$ against a state-of-the-art but more basic use
+of deep learning as only a feature extractor pre-processed outside of the
+interactive loop. Results of two complementary studies, a human-centered
+qualitative case study and an algorithm-centered simulation-based quantitative
+experiment, show that $\text{DeepSI}_{\text{finetune}}$ more accurately
+captures users' complex mental models with fewer interactions.
+",2023-05-26T18:05:57Z,2023-05-26T18:05:57Z
+http://arxiv.org/abs/1409.3358v1,Building Program Vector Representations for Deep Learning,"Lili Mou,Ge Li,Yuxuan Liu,Hao Peng,Zhi Jin,Yan Xu,Lu Zhang",,"  Deep learning has made significant breakthroughs in various fields of
+artificial intelligence. Advantages of deep learning include the ability to
+capture highly complicated features, weak involvement of human engineering,
+etc. However, it is still virtually impossible to use deep learning to analyze
+programs since deep architectures cannot be trained effectively with pure back
+propagation. In this pioneering paper, we propose the ""coding criterion"" to
+build program vector representations, which are the premise of deep learning
+for program analysis. Our representation learning approach directly makes deep
+learning a reality in this new field. We evaluate the learned vector
+representations both qualitatively and quantitatively. We conclude, based on
+the experiments, the coding criterion is successful in building program
+representations. To evaluate whether deep learning is beneficial for program
+analysis, we feed the representations to deep neural networks, and achieve
+higher accuracy in the program classification task than ""shallow"" methods, such
+as logistic regression and the support vector machine. This result confirms the
+feasibility of deep learning to analyze programs. It also gives primary
+evidence of its success in this new field. We believe deep learning will become
+an outstanding technique for program analysis in the near future.
+",2014-09-11T08:44:28Z,2014-09-11T08:44:28Z
+http://arxiv.org/abs/2210.11237v1,"Emerging Threats in Deep Learning-Based Autonomous Driving: A
+  Comprehensive Survey","Hui Cao,Wenlong Zou,Yinkun Wang,Ting Song,Mengjun Liu",,"  Since the 2004 DARPA Grand Challenge, the autonomous driving technology has
+witnessed nearly two decades of rapid development. Particularly, in recent
+years, with the application of new sensors and deep learning technologies
+extending to the autonomous field, the development of autonomous driving
+technology has continued to make breakthroughs. Thus, many carmakers and
+high-tech giants dedicated to research and system development of autonomous
+driving. However, as the foundation of autonomous driving, the deep learning
+technology faces many new security risks. The academic community has proposed
+deep learning countermeasures against the adversarial examples and AI backdoor,
+and has introduced them into the autonomous driving field for verification.
+Deep learning security matters to autonomous driving system security, and then
+matters to personal safety, which is an issue that deserves attention and
+research.This paper provides an summary of the concepts, developments and
+recent research in deep learning security technologies in autonomous driving.
+Firstly, we briefly introduce the deep learning framework and pipeline in the
+autonomous driving system, which mainly include the deep learning technologies
+and algorithms commonly used in this field. Moreover, we focus on the potential
+security threats of the deep learning based autonomous driving system in each
+functional layer in turn. We reviews the development of deep learning attack
+technologies to autonomous driving, investigates the State-of-the-Art
+algorithms, and reveals the potential risks. At last, we provides an outlook on
+deep learning security in the autonomous driving field and proposes
+recommendations for building a safe and trustworthy autonomous driving system.
+",2022-10-19T10:04:33Z,2022-10-19T10:04:33Z
+http://arxiv.org/abs/1805.10451v2,Geometric Understanding of Deep Learning,"Na Lei,Zhongxuan Luo,Shing-Tung Yau,David Xianfeng Gu",,"  Deep learning is the mainstream technique for many machine learning tasks,
+including image recognition, machine translation, speech recognition, and so
+on. It has outperformed conventional methods in various fields and achieved
+great successes. Unfortunately, the understanding on how it works remains
+unclear. It has the central importance to lay down the theoretic foundation for
+deep learning.
+  In this work, we give a geometric view to understand deep learning: we show
+that the fundamental principle attributing to the success is the manifold
+structure in data, namely natural high dimensional data concentrates close to a
+low-dimensional manifold, deep learning learns the manifold and the probability
+distribution on it.
+  We further introduce the concepts of rectified linear complexity for deep
+neural network measuring its learning capability, rectified linear complexity
+of an embedding manifold describing the difficulty to be learned. Then we show
+for any deep neural network with fixed architecture, there exists a manifold
+that cannot be learned by the network. Finally, we propose to apply optimal
+mass transportation theory to control the probability distribution in the
+latent space.
+",2018-05-26T09:15:53Z,2018-05-31T00:30:35Z
+http://arxiv.org/abs/1807.08169v1,Recent Advances in Deep Learning: An Overview,"Matiur Rahman Minar,Jibon Naher",,"  Deep Learning is one of the newest trends in Machine Learning and Artificial
+Intelligence research. It is also one of the most popular scientific research
+trends now-a-days. Deep learning methods have brought revolutionary advances in
+computer vision and machine learning. Every now and then, new and new deep
+learning techniques are being born, outperforming state-of-the-art machine
+learning and even existing deep learning techniques. In recent years, the world
+has seen many major breakthroughs in this field. Since deep learning is
+evolving at a huge speed, its kind of hard to keep track of the regular
+advances especially for new researchers. In this paper, we are going to briefly
+discuss about recent advances in Deep Learning for past few years.
+",2018-07-21T15:40:10Z,2018-07-21T15:40:10Z
+http://arxiv.org/abs/2211.03374v1,"Deep Causal Learning: Representation, Discovery and Inference","Zizhen Deng,Xiaolong Zheng,Hu Tian,Daniel Dajun Zeng",,"  Causal learning has attracted much attention in recent years because
+causality reveals the essential relationship between things and indicates how
+the world progresses. However, there are many problems and bottlenecks in
+traditional causal learning methods, such as high-dimensional unstructured
+variables, combinatorial optimization problems, unknown intervention,
+unobserved confounders, selection bias and estimation bias. Deep causal
+learning, that is, causal learning based on deep neural networks, brings new
+insights for addressing these problems. While many deep learning-based causal
+discovery and causal inference methods have been proposed, there is a lack of
+reviews exploring the internal mechanism of deep learning to improve causal
+learning. In this article, we comprehensively review how deep learning can
+contribute to causal learning by addressing conventional challenges from three
+aspects: representation, discovery, and inference. We point out that deep
+causal learning is important for the theoretical extension and application
+expansion of causal science and is also an indispensable part of general
+artificial intelligence. We conclude the article with a summary of open issues
+and potential directions for future work.
+",2022-11-07T09:00:33Z,2022-11-07T09:00:33Z
+http://arxiv.org/abs/2110.06901v2,A Survey on Deep Learning for Skeleton-Based Human Animation,"L. Mourot,L. Hoyet,F. Le Clerc,François Schnitzler,Pierre Hellier",,"  Human character animation is often critical in entertainment content
+production, including video games, virtual reality or fiction films. To this
+end, deep neural networks drive most recent advances through deep learning and
+deep reinforcement learning. In this article, we propose a comprehensive survey
+on the state-of-the-art approaches based on either deep learning or deep
+reinforcement learning in skeleton-based human character animation. First, we
+introduce motion data representations, most common human motion datasets and
+how basic deep models can be enhanced to foster learning of spatial and
+temporal patterns in motion data. Second, we cover state-of-the-art approaches
+divided into three large families of applications in human animation pipelines:
+motion synthesis, character control and motion editing. Finally, we discuss the
+limitations of the current state-of-the-art methods based on deep learning
+and/or deep reinforcement learning in skeletal human character animation and
+possible directions of future research to alleviate current limitations and
+meet animators' needs.
+",2021-10-13T17:29:50Z,2021-11-23T08:44:41Z
+http://arxiv.org/abs/1802.03596v1,Deep Meta-Learning: Learning to Learn in the Concept Space,"Fengwei Zhou,Bin Wu,Zhenguo Li",,"  Few-shot learning remains challenging for meta-learning that learns a
+learning algorithm (meta-learner) from many related tasks. In this work, we
+argue that this is due to the lack of a good representation for meta-learning,
+and propose deep meta-learning to integrate the representation power of deep
+learning into meta-learning. The framework is composed of three modules, a
+concept generator, a meta-learner, and a concept discriminator, which are
+learned jointly. The concept generator, e.g. a deep residual net, extracts a
+representation for each instance that captures its high-level concept, on which
+the meta-learner performs few-shot learning, and the concept discriminator
+recognizes the concepts. By learning to learn in the concept space rather than
+in the complicated instance space, deep meta-learning can substantially improve
+vanilla meta-learning, which is demonstrated on various few-shot image
+recognition problems. For example, on 5-way-1-shot image recognition on
+CIFAR-100 and CUB-200, it improves Matching Nets from 50.53% and 56.53% to
+58.18% and 63.47%, improves MAML from 49.28% and 50.45% to 56.65% and 64.63%,
+and improves Meta-SGD from 53.83% and 53.34% to 61.62% and 66.95%,
+respectively.
+",2018-02-10T14:18:08Z,2018-02-10T14:18:08Z
+http://arxiv.org/abs/1611.07174v2,"Deep Recurrent Convolutional Neural Network: Improving Performance For
+  Speech Recognition","Zewang Zhang,Zheng Sun,Jiaqi Liu,Jingwen Chen,Zhao Huo,Xiao Zhang",,"  A deep learning approach has been widely applied in sequence modeling
+problems. In terms of automatic speech recognition (ASR), its performance has
+significantly been improved by increasing large speech corpus and deeper neural
+network. Especially, recurrent neural network and deep convolutional neural
+network have been applied in ASR successfully. Given the arising problem of
+training speed, we build a novel deep recurrent convolutional network for
+acoustic modeling and then apply deep residual learning to it. Our experiments
+show that it has not only faster convergence speed but better recognition
+accuracy over traditional deep convolutional recurrent network. In the
+experiments, we compare the convergence speed of our novel deep recurrent
+convolutional networks and traditional deep convolutional recurrent networks.
+With faster convergence speed, our novel deep recurrent convolutional networks
+can reach the comparable performance. We further show that applying deep
+residual learning can boost the convergence speed of our novel deep recurret
+convolutional networks. Finally, we evaluate all our experimental networks by
+phoneme error rate (PER) with our proposed bidirectional statistical n-gram
+language model. Our evaluation results show that our newly proposed deep
+recurrent convolutional network applied with deep residual learning can reach
+the best PER of 17.33\% with the fastest convergence speed on TIMIT database.
+The outstanding performance of our novel deep recurrent convolutional neural
+network with deep residual learning indicates that it can be potentially
+adopted in other sequential problems.
+",2016-11-22T07:36:21Z,2016-12-27T04:53:56Z
+http://arxiv.org/abs/2004.05366v2,"In-Machine-Learning Database: Reimagining Deep Learning with Old-School
+  SQL",Len Du,,"  In-database machine learning has been very popular, almost being a cliche.
+However, can we do it the other way around? In this work, we say ""yes"" by
+applying plain old SQL to deep learning, in a sense implementing deep learning
+algorithms with SQL. Most deep learning frameworks, as well as generic machine
+learning ones, share a de facto standard of multidimensional array operations,
+underneath fancier infrastructure such as automatic differentiation. As SQL
+tables can be regarded as generalisations of (multi-dimensional) arrays, we
+have found a way to express common deep learning operations in SQL, encouraging
+a different way of thinking and thus potentially novel models. In particular,
+one of the latest trend in deep learning was the introduction of sparsity in
+the name of graph convolutional networks, whereas we take sparsity almost for
+granted in the database world. As both databases and machine learning involve
+transformation of datasets, we hope this work can inspire further works
+utilizing the large body of existing wisdom, algorithms and technologies in the
+database field to advance the state of the art in machine learning, rather than
+merely integerating machine learning into databases.
+",2020-04-11T11:00:26Z,2020-04-14T18:08:28Z
+http://arxiv.org/abs/2101.08387v6,A Survey on Ensemble Learning under the Era of Deep Learning,"Yongquan Yang,Haijun Lv,Ning Chen",,"  Due to the dominant position of deep learning (mostly deep neural networks)
+in various artificial intelligence applications, recently, ensemble learning
+based on deep neural networks (ensemble deep learning) has shown significant
+performances in improving the generalization of learning system. However, since
+modern deep neural networks usually have millions to billions of parameters,
+the time and space overheads for training multiple base deep learners and
+testing with the ensemble deep learner are far greater than that of traditional
+ensemble learning. Though several algorithms of fast ensemble deep learning
+have been proposed to promote the deployment of ensemble deep learning in some
+applications, further advances still need to be made for many applications in
+specific fields, where the developing time and computing resources are usually
+restricted or the data to be processed is of large dimensionality. An urgent
+problem needs to be solved is how to take the significant advantages of
+ensemble deep learning while reduce the required expenses so that many more
+applications in specific fields can benefit from it. For the alleviation of
+this problem, it is essential to know about how ensemble learning has developed
+under the era of deep learning. Thus, in this article, we present fundamental
+discussions focusing on data analyses of published works, methodologies, recent
+advances and unattainability of traditional ensemble learning and ensemble deep
+learning. We hope this article will be helpful to realize the intrinsic
+problems and technical challenges faced by future developments of ensemble
+learning under the era of deep learning.
+",2021-01-21T01:33:23Z,2022-09-28T02:07:18Z
+http://arxiv.org/abs/2403.17561v3,A Survey on Deep Learning and State-of-the-art Applications,"Mohd Halim Mohd Noor,Ayokunle Olalekan Ige",,"  Deep learning, a branch of artificial intelligence, is a computational model
+that uses multiple layers of interconnected units (neurons) to learn intricate
+patterns and representations directly from raw input data. Empowered by this
+learning capability, it has become a powerful tool for solving complex problems
+and is the core driver of many groundbreaking technologies and innovations.
+Building a deep learning model is a challenging task due to the algorithm`s
+complexity and the dynamic nature of real-world problems. Several studies have
+reviewed deep learning concepts and applications. However, the studies mostly
+focused on the types of deep learning models and convolutional neural network
+architectures, offering limited coverage of the state-of-the-art of deep
+learning models and their applications in solving complex problems across
+different domains. Therefore, motivated by the limitations, this study aims to
+comprehensively review the state-of-the-art deep learning models in computer
+vision, natural language processing, time series analysis and pervasive
+computing. We highlight the key features of the models and their effectiveness
+in solving the problems within each domain. Furthermore, this study presents
+the fundamentals of deep learning, various deep learning model types and
+prominent convolutional neural network architectures. Finally, challenges and
+future directions in deep learning research are discussed to offer a broader
+perspective for future researchers.
+",2024-03-26T10:10:53Z,2024-05-16T12:00:29Z
+http://arxiv.org/abs/2404.19226v1,A Survey of Deep Learning Based Software Refactoring,"Bridget Nyirongo,Yanjie Jiang,He Jiang,Hui Liu",,"  Refactoring is one of the most important activities in software engineering
+which is used to improve the quality of a software system. With the advancement
+of deep learning techniques, researchers are attempting to apply deep learning
+techniques to software refactoring. Consequently, dozens of deep learning-based
+refactoring approaches have been proposed. However, there is a lack of
+comprehensive reviews on such works as well as a taxonomy for deep
+learning-based refactoring. To this end, in this paper, we present a survey on
+deep learning-based software refactoring. We classify related works into five
+categories according to the major tasks they cover. Among these categories, we
+further present key aspects (i.e., code smell types, refactoring types,
+training strategies, and evaluation) to give insight into the details of the
+technologies that have supported refactoring through deep learning. The
+classification indicates that there is an imbalance in the adoption of deep
+learning techniques for the process of refactoring. Most of the deep learning
+techniques have been used for the detection of code smells and the
+recommendation of refactoring solutions as found in 56.25\% and 33.33\% of the
+literature respectively. In contrast, only 6.25\% and 4.17\% were towards the
+end-to-end code transformation as refactoring and the mining of refactorings,
+respectively. Notably, we found no literature representation for the quality
+assurance for refactoring. We also observe that most of the deep learning
+techniques have been used to support refactoring processes occurring at the
+method level whereas classes and variables attracted minimal attention.
+Finally, we discuss the challenges and limitations associated with the
+employment of deep learning-based refactorings and present some potential
+research opportunities for future work.
+",2024-04-30T03:07:11Z,2024-04-30T03:07:11Z
+http://arxiv.org/abs/1902.05148v1,Probabilistic Generative Deep Learning for Molecular Design,Daniel T. Chang,,"  Probabilistic generative deep learning for molecular design involves the
+discovery and design of new molecules and analysis of their structure,
+properties and activities by probabilistic generative models using the deep
+learning approach. It leverages the existing huge databases and publications of
+experimental results, and quantum-mechanical calculations, to learn and explore
+molecular structure, properties and activities. We discuss the major components
+of probabilistic generative deep learning for molecular design, which include
+molecular structure, molecular representations, deep generative models,
+molecular latent representations and latent space, molecular structure-property
+and structure-activity relationships, molecular similarity and molecular
+design. We highlight significant recent work using or applicable to this new
+approach.
+",2019-02-11T19:21:08Z,2019-02-11T19:21:08Z
+http://arxiv.org/abs/1904.10337v1,MinCall - MinION end2end convolutional deep learning basecaller,"Neven Miculinić,Marko Ratković,Mile Šikić",,"  The Oxford Nanopore Technologies's MinION is the first portable DNA
+sequencing device. It is capable of producing long reads, over 100 kBp were
+reported. However, it has significantly higher error rate than other methods.
+In this study, we present MinCall, an end2end basecaller model for the MinION.
+The model is based on deep learning and uses convolutional neural networks
+(CNN) in its implementation. For extra performance, it uses cutting edge deep
+learning techniques and architectures, batch normalization and Connectionist
+Temporal Classification (CTC) loss. The best performing deep learning model
+achieves 91.4% median match rate on E. Coli dataset using R9 pore chemistry and
+1D reads.
+",2019-04-22T16:37:00Z,2019-04-22T16:37:00Z
+http://arxiv.org/abs/2103.05127v2,Model Complexity of Deep Learning: A Survey,"Xia Hu,Lingyang Chu,Jian Pei,Weiqing Liu,Jiang Bian",,"  Model complexity is a fundamental problem in deep learning. In this paper we
+conduct a systematic overview of the latest studies on model complexity in deep
+learning. Model complexity of deep learning can be categorized into expressive
+capacity and effective model complexity. We review the existing studies on
+those two categories along four important factors, including model framework,
+model size, optimization process and data complexity. We also discuss the
+applications of deep learning model complexity including understanding model
+generalization, model optimization, and model selection and design. We conclude
+by proposing several interesting future directions.
+",2021-03-08T22:39:32Z,2021-08-03T00:19:53Z
+http://arxiv.org/abs/2312.12904v1,"PGN: A perturbation generation network against deep reinforcement
+  learning","Xiangjuan Li,Feifan Li,Yang Li,Quan Pan",,"  Deep reinforcement learning has advanced greatly and applied in many areas.
+In this paper, we explore the vulnerability of deep reinforcement learning by
+proposing a novel generative model for creating effective adversarial examples
+to attack the agent. Our proposed model can achieve both targeted attacks and
+untargeted attacks. Considering the specificity of deep reinforcement learning,
+we propose the action consistency ratio as a measure of stealthiness, and a new
+measurement index of effectiveness and stealthiness. Experiment results show
+that our method can ensure the effectiveness and stealthiness of attack
+compared with other algorithms. Moreover, our methods are considerably faster
+and thus can achieve rapid and efficient verification of the vulnerability of
+deep reinforcement learning.
+",2023-12-20T10:40:41Z,2023-12-20T10:40:41Z
+http://arxiv.org/abs/2210.08367v1,"Active Learning with Neural Networks: Insights from Nonparametric
+  Statistics","Yinglun Zhu,Robert Nowak",,"  Deep neural networks have great representation power, but typically require
+large numbers of training examples. This motivates deep active learning methods
+that can significantly reduce the amount of labeled training data. Empirical
+successes of deep active learning have been recently reported in the
+literature, however, rigorous label complexity guarantees of deep active
+learning have remained elusive. This constitutes a significant gap between
+theory and practice. This paper tackles this gap by providing the first
+near-optimal label complexity guarantees for deep active learning. The key
+insight is to study deep active learning from the nonparametric classification
+perspective. Under standard low noise conditions, we show that active learning
+with neural networks can provably achieve the minimax label complexity, up to
+disagreement coefficient and other logarithmic terms. When equipped with an
+abstention option, we further develop an efficient deep active learning
+algorithm that achieves $\mathsf{polylog}(\frac{1}{\epsilon})$ label
+complexity, without any low noise assumptions. We also provide extensions of
+our results beyond the commonly studied Sobolev older spaces and develop
+label complexity guarantees for learning in Radon $\mathsf{BV}^2$ spaces, which
+have recently been proposed as natural function spaces associated with neural
+networks.
+""",2022-10-15T19:57:09Z,2022-10-15T19:57:09Z
+http://arxiv.org/abs/1611.00336v2,Stochastic Variational Deep Kernel Learning,"Andrew Gordon Wilson,Zhiting Hu,Ruslan Salakhutdinov,Eric P. Xing",,"  Deep kernel learning combines the non-parametric flexibility of kernel
+methods with the inductive biases of deep learning architectures. We propose a
+novel deep kernel learning model and stochastic variational inference procedure
+which generalizes deep kernel learning approaches to enable classification,
+multi-task learning, additive covariance structures, and stochastic gradient
+training. Specifically, we apply additive base kernels to subsets of output
+features from deep neural architectures, and jointly learn the parameters of
+the base kernels and deep network through a Gaussian process marginal
+likelihood objective. Within this framework, we derive an efficient form of
+stochastic variational inference which leverages local kernel interpolation,
+inducing points, and structure exploiting algebra. We show improved performance
+over stand alone deep networks, SVMs, and state of the art scalable Gaussian
+processes on several classification benchmarks, including an airline delay
+dataset containing 6 million training points, CIFAR, and ImageNet.
+",2016-11-01T19:04:47Z,2016-11-02T18:06:16Z
+http://arxiv.org/abs/1612.07640v1,"Deep Learning and Its Applications to Machine Health Monitoring: A
+  Survey","Rui Zhao,Ruqiang Yan,Zhenghua Chen,Kezhi Mao,Peng Wang,Robert X. Gao",,"  Since 2006, deep learning (DL) has become a rapidly growing research
+direction, redefining state-of-the-art performances in a wide range of areas
+such as object recognition, image segmentation, speech recognition and machine
+translation. In modern manufacturing systems, data-driven machine health
+monitoring is gaining in popularity due to the widespread deployment of
+low-cost sensors and their connection to the Internet. Meanwhile, deep learning
+provides useful tools for processing and analyzing these big machinery data.
+The main purpose of this paper is to review and summarize the emerging research
+work of deep learning on machine health monitoring. After the brief
+introduction of deep learning techniques, the applications of deep learning in
+machine health monitoring systems are reviewed mainly from the following
+aspects: Auto-encoder (AE) and its variants, Restricted Boltzmann Machines and
+its variants including Deep Belief Network (DBN) and Deep Boltzmann Machines
+(DBM), Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN).
+Finally, some new trends of DL-based machine health monitoring methods are
+discussed.
+",2016-12-16T04:56:30Z,2016-12-16T04:56:30Z
+http://arxiv.org/abs/1806.08874v1,"The Foundations of Deep Learning with a Path Towards General
+  Intelligence",Eray Özkural,,"  Like any field of empirical science, AI may be approached axiomatically. We
+formulate requirements for a general-purpose, human-level AI system in terms of
+postulates. We review the methodology of deep learning, examining the explicit
+and tacit assumptions in deep learning research. Deep Learning methodology
+seeks to overcome limitations in traditional machine learning research as it
+combines facets of model richness, generality, and practical applicability. The
+methodology so far has produced outstanding results due to a productive synergy
+of function approximation, under plausible assumptions of irreducibility and
+the efficiency of back-propagation family of algorithms. We examine these
+winning traits of deep learning, and also observe the various known failure
+modes of deep learning. We conclude by giving recommendations on how to extend
+deep learning methodology to cover the postulates of general-purpose AI
+including modularity, and cognitive architecture. We also relate deep learning
+to advances in theoretical neuroscience research.
+",2018-06-22T22:52:12Z,2018-06-22T22:52:12Z
+http://arxiv.org/abs/2004.12524v1,"Sequential Interpretability: Methods, Applications, and Future Direction
+  for Understanding Deep Learning Models in the Context of Sequential Data","Benjamin Shickel,Parisa Rashidi",,"  Deep learning continues to revolutionize an ever-growing number of critical
+application areas including healthcare, transportation, finance, and basic
+sciences. Despite their increased predictive power, model transparency and
+human explainability remain a significant challenge due to the ""black box""
+nature of modern deep learning models. In many cases the desired balance
+between interpretability and performance is predominately task specific.
+Human-centric domains such as healthcare necessitate a renewed focus on
+understanding how and why these frameworks are arriving at critical and
+potentially life-or-death decisions. Given the quantity of research and
+empirical successes of deep learning for computer vision, most of the existing
+interpretability research has focused on image processing techniques.
+Comparatively, less attention has been paid to interpreting deep learning
+frameworks using sequential data. Given recent deep learning advancements in
+highly sequential domains such as natural language processing and physiological
+signal processing, the need for deep sequential explanations is at an all-time
+high. In this paper, we review current techniques for interpreting deep
+learning techniques involving sequential data, identify similarities to
+non-sequential methods, and discuss current limitations and future avenues of
+sequential interpretability research.
+",2020-04-27T00:58:42Z,2020-04-27T00:58:42Z
+http://arxiv.org/abs/2208.00203v1,Adding Context to Source Code Representations for Deep Learning,"Fuwei Tian,Christoph Treude",,"  Deep learning models have been successfully applied to a variety of software
+engineering tasks, such as code classification, summarisation, and bug and
+vulnerability detection. In order to apply deep learning to these tasks, source
+code needs to be represented in a format that is suitable for input into the
+deep learning model. Most approaches to representing source code, such as
+tokens, abstract syntax trees (ASTs), data flow graphs (DFGs), and control flow
+graphs (CFGs) only focus on the code itself and do not take into account
+additional context that could be useful for deep learning models. In this
+paper, we argue that it is beneficial for deep learning models to have access
+to additional contextual information about the code being analysed. We present
+preliminary evidence that encoding context from the call hierarchy along with
+information from the code itself can improve the performance of a
+state-of-the-art deep learning model for two software engineering tasks. We
+outline our research agenda for adding further contextual information to source
+code representations for deep learning.
+",2022-07-30T12:47:32Z,2022-07-30T12:47:32Z
+http://arxiv.org/abs/2208.07643v1,A Review of the Convergence of 5G/6G Architecture and Deep Learning,"Olusola T. Odeyomi,Olubiyi O. Akintade,Temitayo O. Olowu,Gergely Zaruba",,"  The convergence of 5G architecture and deep learning has gained a lot of
+research interests in both the fields of wireless communication and artificial
+intelligence. This is because deep learning technologies have been identified
+to be the potential driver of the 5G technologies, that make up the 5G
+architecture. Hence, there have been extensive surveys on the convergence of 5G
+architecture and deep learning. However, most of the existing survey papers
+mainly focused on how deep learning can converge with a specific 5G technology,
+thus, not covering the full spectrum of the 5G architecture. Although there is
+a recent survey paper that appears to be robust, a review of that paper shows
+that it is not well structured to specifically cover the convergence of deep
+learning and the 5G technologies. Hence, this paper provides a robust overview
+of the convergence of the key 5G technologies and deep learning. The challenges
+faced by such convergence are discussed. In addition, a brief overview of the
+future 6G architecture, and how it can converge with deep learning is also
+discussed.
+",2022-08-16T10:05:19Z,2022-08-16T10:05:19Z
+http://arxiv.org/abs/2309.08500v1,Deep-learning-powered data analysis in plankton ecology,"Harshith Bachimanchi,Matthew I. M. Pinder,Chloé Robert,Pierre De Wit,Jonathan Havenhand,Alexandra Kinnby,Daniel Midtvedt,Erik Selander,Giovanni Volpe",,"  The implementation of deep learning algorithms has brought new perspectives
+to plankton ecology. Emerging as an alternative approach to established
+methods, deep learning offers objective schemes to investigate plankton
+organisms in diverse environments. We provide an overview of
+deep-learning-based methods including detection and classification of phyto-
+and zooplankton images, foraging and swimming behaviour analysis, and finally
+ecological modelling. Deep learning has the potential to speed up the analysis
+and reduce the human experimental bias, thus enabling data acquisition at
+relevant temporal and spatial scales with improved reproducibility. We also
+discuss shortcomings and show how deep learning architectures have evolved to
+mitigate imprecise readouts. Finally, we suggest opportunities where deep
+learning is particularly likely to catalyze plankton research. The examples are
+accompanied by detailed tutorials and code samples that allow readers to apply
+the methods described in this review to their own data.
+",2023-09-15T16:04:11Z,2023-09-15T16:04:11Z
+http://arxiv.org/abs/2310.20360v1,"Mathematical Introduction to Deep Learning: Methods, Implementations,
+  and Theory","Arnulf Jentzen,Benno Kuckuck,Philippe von Wurstemberger",,"  This book aims to provide an introduction to the topic of deep learning
+algorithms. We review essential components of deep learning algorithms in full
+mathematical detail including different artificial neural network (ANN)
+architectures (such as fully-connected feedforward ANNs, convolutional ANNs,
+recurrent ANNs, residual ANNs, and ANNs with batch normalization) and different
+optimization algorithms (such as the basic stochastic gradient descent (SGD)
+method, accelerated methods, and adaptive methods). We also cover several
+theoretical aspects of deep learning algorithms such as approximation
+capacities of ANNs (including a calculus for ANNs), optimization theory
+(including Kurdyka-{\L}ojasiewicz inequalities), and generalization errors. In
+the last part of the book some deep learning approximation methods for PDEs are
+reviewed including physics-informed neural networks (PINNs) and deep Galerkin
+methods. We hope that this book will be useful for students and scientists who
+do not yet have any background in deep learning at all and would like to gain a
+solid foundation as well as for practitioners who would like to obtain a firmer
+mathematical understanding of the objects and methods considered in deep
+learning.
+",2023-10-31T11:01:23Z,2023-10-31T11:01:23Z
+http://arxiv.org/abs/1305.0445v2,Deep Learning of Representations: Looking Forward,Yoshua Bengio,,"  Deep learning research aims at discovering learning algorithms that discover
+multiple levels of distributed representations, with higher levels representing
+more abstract concepts. Although the study of deep learning has already led to
+impressive theoretical results, learning algorithms and breakthrough
+experiments, several challenges lie ahead. This paper proposes to examine some
+of these challenges, centering on the questions of scaling deep learning
+algorithms to much larger models and datasets, reducing optimization
+difficulties due to ill-conditioning or local minima, designing more efficient
+and powerful inference and sampling procedures, and learning to disentangle the
+factors of variation underlying the observed data. It also proposes a few
+forward-looking research directions aimed at overcoming these challenges.
+",2013-05-02T14:33:28Z,2013-06-07T02:35:21Z
+http://arxiv.org/abs/1906.01432v1,Knowledge-augmented Column Networks: Guiding Deep Learning with Advice,"Mayukh Das,Devendra Singh Dhami,Yang Yu,Gautam Kunapuli,Sriraam Natarajan",,"  Recently, deep models have had considerable success in several tasks,
+especially with low-level representations. However, effective learning from
+sparse noisy samples is a major challenge in most deep models, especially in
+domains with structured representations. Inspired by the proven success of
+human guided machine learning, we propose Knowledge-augmented Column Networks,
+a relational deep learning framework that leverages human advice/knowledge to
+learn better models in presence of sparsity and systematic noise.
+",2019-05-31T21:09:21Z,2019-05-31T21:09:21Z
